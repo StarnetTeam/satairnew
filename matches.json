@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-07 08:10:44",
+    "last_updated": "2026-05-07 13:24:10",
     "data": [
         {
             "name": "بطولة غير معروفة",
@@ -36,6 +36,26 @@
                         {
                             "name": "S Sport+",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/dnn6v1a8kgm0okng2wh3.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "ESPN Africa",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_56JPeWKQFhLJIkv1r0WZ_logo.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "DStv Now",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_6mK8M0ITrmTRUWnwvU3q_logo.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "Como",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/bihokyo5lhelguj2qpeh.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "GOtv",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/lblmbiehhastcmkfqq48.png",
                             "satellite": ""
                         }
                     ],
@@ -173,6 +193,11 @@
                             "name": "TRT 1 HD",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_1yiaM4VmhFhbpxtHHml6_logo.png",
                             "satellite": "التركي 42"
+                        },
+                        {
+                            "name": "RTK 1 SD",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_0FmOIOOLWRV9EbwNZ0kS_logo.png",
+                            "satellite": "يوتل 16"
                         }
                     ],
                     "commentator": "غير محدد"
@@ -294,6 +319,21 @@
                             "name": "RSI La 2 HD",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/dxqaqwaljkwz8rbthlb0.png",
                             "satellite": "هوت بيرد"
+                        },
+                        {
+                            "name": "Persiana Sports 3",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/rfh9bqywygled2lgur3x.png",
+                            "satellite": "التركماني 52"
+                        },
+                        {
+                            "name": "ART Sport 1",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_60YMlyoQGyTUOzdN9Zek_logo.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "Blue Sport 1 Live",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/ozjcu2tlpznvtnxfldjq.png",
+                            "satellite": ""
                         }
                     ],
                     "commentator": "غير محدد"
@@ -355,6 +395,16 @@
                             "name": "ViX",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_4bJoxHNV6YNOcSEyy1nT_logo.png",
                             "satellite": ""
+                        },
+                        {
+                            "name": "AMC Mikro",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/kbjy67gvfsvurdczqy0h.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "SK 3 Slovenia",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1776346150468_npq4bn.png",
+                            "satellite": "يوتل 16"
                         }
                     ],
                     "commentator": "غير محدد"
@@ -461,6 +511,16 @@
                             "name": "ViX",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_4bJoxHNV6YNOcSEyy1nT_logo.png",
                             "satellite": ""
+                        },
+                        {
+                            "name": "VOOsport World 2",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1775645485373_t3a64g.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "Digiturk Play",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_62Dtc7GWE5fLu9sfVh3H_logo.png",
+                            "satellite": ""
                         }
                     ],
                     "commentator": "غير محدد"
@@ -549,7 +609,13 @@
                     "time": "8:00 م",
                     "status": "لم تبدأ",
                     "score": "---",
-                    "channels": [],
+                    "channels": [
+                        {
+                            "name": "Arryadia HD",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/on3am8sxbjo7yazrvq5m.png",
+                            "satellite": "هوت بيرد"
+                        }
+                    ],
                     "commentator": "غير محدد"
                 },
                 {
@@ -564,7 +630,13 @@
                     "time": "10:00 م",
                     "status": "لم تبدأ",
                     "score": "---",
-                    "channels": [],
+                    "channels": [
+                        {
+                            "name": "Arryadia HD",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/on3am8sxbjo7yazrvq5m.png",
+                            "satellite": "هوت بيرد"
+                        }
+                    ],
                     "commentator": "غير محدد"
                 },
                 {
@@ -1445,6 +1517,66 @@
                         "logo": ""
                     },
                     "time": "6:30 م",
+                    "status": "لم تبدأ",
+                    "score": "---",
+                    "channels": [],
+                    "commentator": "غير محدد"
+                },
+                {
+                    "home": {
+                        "name": "Unknown",
+                        "logo": ""
+                    },
+                    "away": {
+                        "name": "Unknown",
+                        "logo": ""
+                    },
+                    "time": "5:00 م",
+                    "status": "لم تبدأ",
+                    "score": "---",
+                    "channels": [],
+                    "commentator": "غير محدد"
+                },
+                {
+                    "home": {
+                        "name": "Unknown",
+                        "logo": ""
+                    },
+                    "away": {
+                        "name": "Unknown",
+                        "logo": ""
+                    },
+                    "time": "5:00 م",
+                    "status": "لم تبدأ",
+                    "score": "---",
+                    "channels": [],
+                    "commentator": "غير محدد"
+                },
+                {
+                    "home": {
+                        "name": "Unknown",
+                        "logo": ""
+                    },
+                    "away": {
+                        "name": "Unknown",
+                        "logo": ""
+                    },
+                    "time": "5:00 م",
+                    "status": "لم تبدأ",
+                    "score": "---",
+                    "channels": [],
+                    "commentator": "غير محدد"
+                },
+                {
+                    "home": {
+                        "name": "Unknown",
+                        "logo": ""
+                    },
+                    "away": {
+                        "name": "Unknown",
+                        "logo": ""
+                    },
+                    "time": "5:00 م",
                     "status": "لم تبدأ",
                     "score": "---",
                     "channels": [],
