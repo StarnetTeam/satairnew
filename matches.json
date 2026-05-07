@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-07 13:24:10",
+    "last_updated": "2026-05-07 19:22:51",
     "data": [
         {
             "name": "بطولة غير معروفة",
@@ -362,11 +362,6 @@
                             "satellite": "نايل سات"
                         },
                         {
-                            "name": "beIN SPORTS 4",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_3nnBJ8rfmf0d746qXKnF_logo.png",
-                            "satellite": "بدر 26"
-                        },
-                        {
                             "name": "TOD",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/wepqrh3hppobqeophbbg.png",
                             "satellite": ""
@@ -405,6 +400,11 @@
                             "name": "SK 3 Slovenia",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1776346150468_npq4bn.png",
                             "satellite": "يوتل 16"
+                        },
+                        {
+                            "name": "beIN SPORTS 4",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_3nnBJ8rfmf0d746qXKnF_logo.png",
+                            "satellite": "بدر 26"
                         }
                     ],
                     "commentator": "غير محدد"
@@ -446,16 +446,6 @@
                             "name": "MEGOGO Football 1",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_3yr6vhRMIhuhhZsYNIe3_logo.jpg",
                             "satellite": ""
-                        },
-                        {
-                            "name": "beIN SPORTS 4",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_8s4uFFuZ720b6PrN8lkE_logo.png",
-                            "satellite": "نايل سات"
-                        },
-                        {
-                            "name": "beIN SPORTS 4",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_3nnBJ8rfmf0d746qXKnF_logo.png",
-                            "satellite": "بدر 26"
                         },
                         {
                             "name": "TOD",
@@ -594,7 +584,13 @@
                     "time": "6:00 م",
                     "status": "لم تبدأ",
                     "score": "---",
-                    "channels": [],
+                    "channels": [
+                        {
+                            "name": "Arryadia HD",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/on3am8sxbjo7yazrvq5m.png",
+                            "satellite": "هوت بيرد"
+                        }
+                    ],
                     "commentator": "غير محدد"
                 },
                 {
