@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-11 08:54:16",
+    "last_updated": "2026-05-11 14:19:13",
     "data": [
         {
             "name": "بطولة غير معروفة",
@@ -102,6 +102,16 @@
                             "name": "Supersport Grandstand",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/r02vxkoqbmrd9b1delsx.png",
                             "satellite": "إكسبرس 36 (إفريقيا)"
+                        },
+                        {
+                            "name": "Football TV HD",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_8X2qm2iKAWZgkyVCVCve_logo.png",
+                            "satellite": "الياه سات 52"
+                        },
+                        {
+                            "name": "Setanta Sports Ukraine",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_2PebfH87iRCz6uut8GWH_logo.png",
+                            "satellite": "قبرص"
                         }
                     ],
                     "commentator": "غير محدد"
@@ -217,6 +227,11 @@
                         {
                             "name": "ESPN3 Colombia",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_2rqNhzka3Q8bsPO95xG8_logo.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "MEGOGO Football 1",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_3yr6vhRMIhuhhZsYNIe3_logo.jpg",
                             "satellite": ""
                         }
                     ],
@@ -336,7 +351,7 @@
                             "satellite": "يوتل 16"
                         }
                     ],
-                    "commentator": "غير محدد"
+                    "commentator": "فيصل الهندي"
                 },
                 {
                     "home": {
@@ -416,7 +431,13 @@
                     "time": "6:00 م",
                     "status": "لم تبدأ",
                     "score": "---",
-                    "channels": [],
+                    "channels": [
+                        {
+                            "name": "Arryadia HD",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/on3am8sxbjo7yazrvq5m.png",
+                            "satellite": "هوت بيرد"
+                        }
+                    ],
                     "commentator": "غير محدد"
                 },
                 {
@@ -473,7 +494,13 @@
                     "time": "4:10 م",
                     "status": "لم تبدأ",
                     "score": "---",
-                    "channels": [],
+                    "channels": [
+                        {
+                            "name": "Sharjah Sports HD",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/guxqeilxwdicolvdiyak.png",
+                            "satellite": "نايل سات"
+                        }
+                    ],
                     "commentator": "غير محدد"
                 },
                 {
@@ -488,7 +515,13 @@
                     "time": "6:45 م",
                     "status": "لم تبدأ",
                     "score": "---",
-                    "channels": [],
+                    "channels": [
+                        {
+                            "name": "Sharjah Sports HD",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/guxqeilxwdicolvdiyak.png",
+                            "satellite": "نايل سات"
+                        }
+                    ],
                     "commentator": "غير محدد"
                 },
                 {
