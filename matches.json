@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-14 01:56:25",
+    "last_updated": "2026-05-14 08:24:25",
     "data": [
         {
             "name": "بطولة غير معروفة",
@@ -354,6 +354,11 @@
                             "name": "beIN Sports Malaysia",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/dvuw7cow9a7cihexzevv.png",
                             "satellite": ""
+                        },
+                        {
+                            "name": "ICE Xtra",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/zldrw9drtpdvtyherjy4.png",
+                            "satellite": ""
                         }
                     ],
                     "commentator": "غير محدد"
@@ -623,6 +628,16 @@
                             "name": "Claro TV+",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/nxcihtioan4baszup3ko.png",
                             "satellite": ""
+                        },
+                        {
+                            "name": "Canal del Futbol",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/lju25hzahbotrdfr8oa5.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "Canal 11 HD",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_08HfOajfuWoT2yTF7XEW_logo.png",
+                            "satellite": "هيسباسات"
                         }
                     ],
                     "commentator": "غير محدد"
@@ -664,6 +679,11 @@
                             "name": "fuboTV",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_541g3NFSdww7eRBiegMj_logo.png",
                             "satellite": ""
+                        },
+                        {
+                            "name": "Nexgen",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/to7uxtk5j992qoi255cn.png",
+                            "satellite": ""
                         }
                     ],
                     "commentator": "غير محدد"
@@ -680,7 +700,13 @@
                     "time": "1:30 ص",
                     "status": "لم تبدأ",
                     "score": "---",
-                    "channels": [],
+                    "channels": [
+                        {
+                            "name": "Nexgen",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/to7uxtk5j992qoi255cn.png",
+                            "satellite": ""
+                        }
+                    ],
                     "commentator": "غير محدد"
                 },
                 {
