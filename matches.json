@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-19 02:00:40",
+    "last_updated": "2026-05-19 08:55:30",
     "data": [
         {
             "name": "بطولة غير معروفة",
@@ -107,6 +107,21 @@
                             "name": "Premier League TV",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/enzocck7b2gwuqpjdfvz.png",
                             "satellite": ""
+                        },
+                        {
+                            "name": "Arena 1 Premium Bosnia",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1776259632840_qql9wh.png",
+                            "satellite": "يوتل 16"
+                        },
+                        {
+                            "name": "Digiturk Play",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_62Dtc7GWE5fLu9sfVh3H_logo.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "Setanta Sports Ukraine",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_2PebfH87iRCz6uut8GWH_logo.png",
+                            "satellite": "قبرص"
                         }
                     ],
                     "commentator": "غير محدد"
@@ -213,6 +228,16 @@
                             "name": "Premier League TV",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/enzocck7b2gwuqpjdfvz.png",
                             "satellite": ""
+                        },
+                        {
+                            "name": "TSN7 Malta",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_2uK8NypMVGleXrUDJusA_logo.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "Football TV HD",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_8X2qm2iKAWZgkyVCVCve_logo.png",
+                            "satellite": "الياه سات 52"
                         }
                     ],
                     "commentator": "غير محدد"
