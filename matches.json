@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-20 02:00:20",
+    "last_updated": "2026-05-20 08:49:59",
     "data": [
         {
             "name": "بطولة غير معروفة",
@@ -254,11 +254,6 @@
                             "name": "VTVcab ON",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_0Z8x1UJD9BbyxFE1kMnR_logo.png",
                             "satellite": ""
-                        },
-                        {
-                            "name": "RTSH Sport",
-                            "logo": "",
-                            "satellite": ""
                         }
                     ],
                     "commentator": "غير محدد"
@@ -290,7 +285,13 @@
                     "time": "7:00 م",
                     "status": "لم تبدأ",
                     "score": "---",
-                    "channels": [],
+                    "channels": [
+                        {
+                            "name": "ON Sport 1 HD",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/z4dccqvifjl838oci51k.png",
+                            "satellite": "نايل سات"
+                        }
+                    ],
                     "commentator": "غير محدد"
                 },
                 {
