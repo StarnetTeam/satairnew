@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-22 08:45:58",
+    "last_updated": "2026-05-22 14:10:31",
     "data": [
         {
             "name": "بطولة غير معروفة",
@@ -47,7 +47,13 @@
                     "time": "7:00 م",
                     "status": "لم تبدأ",
                     "score": "---",
-                    "channels": [],
+                    "channels": [
+                        {
+                            "name": "TV 6 Algerie HD",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/fmuyq2h2bqxnu0p0qzd6.png",
+                            "satellite": "نايل سات"
+                        }
+                    ],
                     "commentator": "غير محدد"
                 },
                 {
@@ -122,6 +128,11 @@
                             "name": "beIN CONNECT Turkey",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_0cRXHDVxf7gp3LBj2bQA_logo.png",
                             "satellite": ""
+                        },
+                        {
+                            "name": "Claro TV+",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/nxcihtioan4baszup3ko.png",
+                            "satellite": ""
                         }
                     ],
                     "commentator": "غير محدد"
@@ -142,6 +153,16 @@
                         {
                             "name": "Sharjah Sports HD",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/guxqeilxwdicolvdiyak.png",
+                            "satellite": "نايل سات"
+                        },
+                        {
+                            "name": "DAZN Italia",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_2QL9qP7zB1JL9eJJXqVO_logo.webp",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "Al Kass Two",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/g5tjyfukt9jcele95wws.png",
                             "satellite": "نايل سات"
                         }
                     ],
@@ -314,6 +335,21 @@
                             "name": "Sharjah Sports 2 HD",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1775339618072_m4otwy.png",
                             "satellite": "نايل سات"
+                        },
+                        {
+                            "name": "atv HD",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1776784560950_9za1pv.png",
+                            "satellite": "التركي 42"
+                        },
+                        {
+                            "name": "Arena Sport 4 Serbia",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_2NmEHGimvaeJITn9XYr6_logo.png",
+                            "satellite": "استرا 23"
+                        },
+                        {
+                            "name": "Digiturk Play",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_62Dtc7GWE5fLu9sfVh3H_logo.png",
+                            "satellite": ""
                         }
                     ],
                     "commentator": "غير محدد"
@@ -375,6 +411,11 @@
                             "name": "Arena 3 Premium Serbia",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1776224462896_jhjfxy.png",
                             "satellite": "يوتل 16"
+                        },
+                        {
+                            "name": "Nexgen",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/to7uxtk5j992qoi255cn.png",
+                            "satellite": ""
                         }
                     ],
                     "commentator": "غير محدد"
@@ -436,6 +477,11 @@
                             "name": "Arena 3 Premium Serbia",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1776224462896_jhjfxy.png",
                             "satellite": "يوتل 16"
+                        },
+                        {
+                            "name": "Nexgen",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/to7uxtk5j992qoi255cn.png",
+                            "satellite": ""
                         }
                     ],
                     "commentator": "غير محدد"
@@ -466,6 +512,11 @@
                         {
                             "name": "fuboTV",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_541g3NFSdww7eRBiegMj_logo.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "ESPN 5 Sur",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/ghfqmpeyo9fpubftvky0.png",
                             "satellite": ""
                         },
                         {
@@ -818,9 +869,24 @@
                             "name": "S Sport 2",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_2vjv2KyoxNrJSUzhi6c3_logo.png",
                             "satellite": ""
+                        },
+                        {
+                            "name": "ESPN3 Colombia",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_2rqNhzka3Q8bsPO95xG8_logo.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "Claro TV+",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/nxcihtioan4baszup3ko.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "Astro Go",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_59NMnzdwsebW7N9fZBjo_logo.webp",
+                            "satellite": ""
                         }
                     ],
-                    "commentator": "غير محدد"
+                    "commentator": "عيسى الحربين"
                 },
                 {
                     "home": {
@@ -855,7 +921,13 @@
                     "time": "10:00 م",
                     "status": "لم تبدأ",
                     "score": "---",
-                    "channels": [],
+                    "channels": [
+                        {
+                            "name": "Arryadia HD",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/on3am8sxbjo7yazrvq5m.png",
+                            "satellite": "هوت بيرد"
+                        }
+                    ],
                     "commentator": "غير محدد"
                 }
             ],
