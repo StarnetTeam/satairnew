@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-25 19:13:01",
+    "last_updated": "2026-05-26 01:56:31",
     "data": [
         {
             "name": "بطولة غير معروفة",
@@ -14,37 +14,7 @@
                         "name": "Unknown",
                         "logo": ""
                     },
-                    "time": "6:15 م",
-                    "status": "لم تبدأ",
-                    "score": "---",
-                    "channels": [],
-                    "commentator": "غير محدد"
-                },
-                {
-                    "home": {
-                        "name": "Unknown",
-                        "logo": ""
-                    },
-                    "away": {
-                        "name": "Unknown",
-                        "logo": ""
-                    },
-                    "time": "6:15 م",
-                    "status": "لم تبدأ",
-                    "score": "---",
-                    "channels": [],
-                    "commentator": "غير محدد"
-                },
-                {
-                    "home": {
-                        "name": "Unknown",
-                        "logo": ""
-                    },
-                    "away": {
-                        "name": "Unknown",
-                        "logo": ""
-                    },
-                    "time": "1:30 ص",
+                    "time": "1:00 ص",
                     "status": "لم تبدأ",
                     "score": "---",
                     "channels": [
@@ -62,11 +32,6 @@
                             "name": "Canal del Futbol",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/lju25hzahbotrdfr8oa5.png",
                             "satellite": ""
-                        },
-                        {
-                            "name": "Canal 11 HD",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_08HfOajfuWoT2yTF7XEW_logo.png",
-                            "satellite": "هيسباسات"
                         }
                     ],
                     "commentator": "غير محدد"
@@ -80,19 +45,14 @@
                         "name": "Unknown",
                         "logo": ""
                     },
-                    "time": "1:00 ص",
+                    "time": "6:00 م",
                     "status": "لم تبدأ",
                     "score": "---",
                     "channels": [
                         {
-                            "name": "FOX Deportes",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_8jsbYiGlmiGm0CCsiBru_logo.png",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "fuboTV",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_541g3NFSdww7eRBiegMj_logo.png",
-                            "satellite": ""
+                            "name": "Arryadia HD",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/on3am8sxbjo7yazrvq5m.png",
+                            "satellite": "هوت بيرد"
                         }
                     ],
                     "commentator": "غير محدد"
@@ -106,125 +66,7 @@
                         "name": "Unknown",
                         "logo": ""
                     },
-                    "time": "3:00 ص",
-                    "status": "لم تبدأ",
-                    "score": "---",
-                    "channels": [
-                        {
-                            "name": "SPOTV Prime",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/hi0rgpuipaggzpkbvmkv.png",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "FOX Deportes",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_8jsbYiGlmiGm0CCsiBru_logo.png",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "fuboTV",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_541g3NFSdww7eRBiegMj_logo.png",
-                            "satellite": ""
-                        }
-                    ],
-                    "commentator": "غير محدد"
-                },
-                {
-                    "home": {
-                        "name": "Unknown",
-                        "logo": ""
-                    },
-                    "away": {
-                        "name": "Unknown",
-                        "logo": ""
-                    },
-                    "time": "6:45 م",
-                    "status": "لم تبدأ",
-                    "score": "---",
-                    "channels": [],
-                    "commentator": "غير محدد"
-                },
-                {
-                    "home": {
-                        "name": "Unknown",
-                        "logo": ""
-                    },
-                    "away": {
-                        "name": "Unknown",
-                        "logo": ""
-                    },
-                    "time": "6:45 م",
-                    "status": "لم تبدأ",
-                    "score": "---",
-                    "channels": [],
-                    "commentator": "غير محدد"
-                },
-                {
-                    "home": {
-                        "name": "Unknown",
-                        "logo": ""
-                    },
-                    "away": {
-                        "name": "Unknown",
-                        "logo": ""
-                    },
-                    "time": "7:25 م",
-                    "status": "لم تبدأ",
-                    "score": "---",
-                    "channels": [],
-                    "commentator": "غير محدد"
-                },
-                {
-                    "home": {
-                        "name": "Unknown",
-                        "logo": ""
-                    },
-                    "away": {
-                        "name": "Unknown",
-                        "logo": ""
-                    },
-                    "time": "4:00 م",
-                    "status": "لم تبدأ",
-                    "score": "---",
-                    "channels": [
-                        {
-                            "name": "ON Sport 1 HD",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/z4dccqvifjl838oci51k.png",
-                            "satellite": "نايل سات"
-                        }
-                    ],
-                    "commentator": "غير محدد"
-                },
-                {
-                    "home": {
-                        "name": "Unknown",
-                        "logo": ""
-                    },
-                    "away": {
-                        "name": "Unknown",
-                        "logo": ""
-                    },
-                    "time": "7:00 م",
-                    "status": "لم تبدأ",
-                    "score": "---",
-                    "channels": [
-                        {
-                            "name": "ON Sport 1 HD",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/z4dccqvifjl838oci51k.png",
-                            "satellite": "نايل سات"
-                        }
-                    ],
-                    "commentator": "غير محدد"
-                },
-                {
-                    "home": {
-                        "name": "Unknown",
-                        "logo": ""
-                    },
-                    "away": {
-                        "name": "Unknown",
-                        "logo": ""
-                    },
-                    "time": "6:30 م",
+                    "time": "8:30 م",
                     "status": "لم تبدأ",
                     "score": "---",
                     "channels": [],
