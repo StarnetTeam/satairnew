@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-27 02:05:27",
+    "last_updated": "2026-05-27 08:56:57",
     "data": [
         {
             "name": "بطولة غير معروفة",
@@ -146,6 +146,31 @@
                         {
                             "name": "MEGOGO Football 1",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_3yr6vhRMIhuhhZsYNIe3_logo.jpg",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "CBC Sport HD",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/s40e76pkup54pdv37fpp.png",
+                            "satellite": "الأذري 46"
+                        },
+                        {
+                            "name": "CRTV Sports",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/cjjkfks0i2ayzgk1nlrz.png",
+                            "satellite": "يوتل 16 (إفريقيا)"
+                        },
+                        {
+                            "name": "RTK 1 SD",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_0FmOIOOLWRV9EbwNZ0kS_logo.png",
+                            "satellite": "يوتل 16"
+                        },
+                        {
+                            "name": "Blue Sport 1 Live",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/ozjcu2tlpznvtnxfldjq.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "Zoʻr TV",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_8Fwoa39Yz7NHPJ5yw6LY_logo.png",
                             "satellite": ""
                         }
                     ],
@@ -684,6 +709,11 @@
                             "name": "DIRECTV Sports Colombia",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/evi4ocncmpcicurtogtd.png",
                             "satellite": ""
+                        },
+                        {
+                            "name": "Claro TV+",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/nxcihtioan4baszup3ko.png",
+                            "satellite": ""
                         }
                     ],
                     "commentator": "غير محدد"
@@ -698,21 +728,6 @@
                         "logo": ""
                     },
                     "time": "8:30 م",
-                    "status": "لم تبدأ",
-                    "score": "---",
-                    "channels": [],
-                    "commentator": "غير محدد"
-                },
-                {
-                    "home": {
-                        "name": "Unknown",
-                        "logo": ""
-                    },
-                    "away": {
-                        "name": "Unknown",
-                        "logo": ""
-                    },
-                    "time": "5:00 م",
                     "status": "لم تبدأ",
                     "score": "---",
                     "channels": [],
