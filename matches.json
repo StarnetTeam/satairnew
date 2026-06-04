@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-04 02:30:03",
+    "last_updated": "2026-06-04 09:39:43",
     "data": [
         {
             "name": "بطولة غير معروفة",
@@ -59,7 +59,13 @@
                     "time": "6:00 م",
                     "status": "لم تبدأ",
                     "score": "---",
-                    "channels": [],
+                    "channels": [
+                        {
+                            "name": "TV 6 Algerie HD",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/fmuyq2h2bqxnu0p0qzd6.png",
+                            "satellite": "نايل سات"
+                        }
+                    ],
                     "commentator": "غير محدد"
                 },
                 {
@@ -610,7 +616,7 @@
                         "name": "Unknown",
                         "logo": ""
                     },
-                    "time": "8:00 م",
+                    "time": "6:00 م",
                     "status": "لم تبدأ",
                     "score": "---",
                     "channels": [],
