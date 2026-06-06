@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-06 01:56:09",
+    "last_updated": "2026-06-06 08:21:02",
     "data": [
         {
             "name": "بطولة غير معروفة",
@@ -260,16 +260,6 @@
                             "name": "ELTA Sports 4",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/zmhjkhgbfysaesl03wzf.png",
                             "satellite": ""
-                        },
-                        {
-                            "name": "ON Sport 1 HD",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/z4dccqvifjl838oci51k.png",
-                            "satellite": "نايل سات"
-                        },
-                        {
-                            "name": "Sharjah Sports HD",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/guxqeilxwdicolvdiyak.png",
-                            "satellite": "نايل سات"
                         }
                     ],
                     "commentator": "غير محدد"
