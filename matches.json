@@ -1,55 +1,10 @@
 {
-    "last_updated": "2026-06-09 08:55:46",
+    "last_updated": "2026-06-09 14:15:52",
     "data": [
         {
             "name": "بطولة غير معروفة",
             "logo": "",
             "matches": [
-                {
-                    "home": {
-                        "name": "Unknown",
-                        "logo": ""
-                    },
-                    "away": {
-                        "name": "Unknown",
-                        "logo": ""
-                    },
-                    "time": "6:00 م",
-                    "status": "لم تبدأ",
-                    "score": "---",
-                    "channels": [],
-                    "commentator": "غير محدد"
-                },
-                {
-                    "home": {
-                        "name": "Unknown",
-                        "logo": ""
-                    },
-                    "away": {
-                        "name": "Unknown",
-                        "logo": ""
-                    },
-                    "time": "12:00 م",
-                    "status": "لم تبدأ",
-                    "score": "---",
-                    "channels": [],
-                    "commentator": "غير محدد"
-                },
-                {
-                    "home": {
-                        "name": "Unknown",
-                        "logo": ""
-                    },
-                    "away": {
-                        "name": "Unknown",
-                        "logo": ""
-                    },
-                    "time": "12:00 م",
-                    "status": "لم تبدأ",
-                    "score": "---",
-                    "channels": [],
-                    "commentator": "غير محدد"
-                },
                 {
                     "home": {
                         "name": "Unknown",
@@ -279,6 +234,11 @@
                             "name": "SPOTV Prime",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/hi0rgpuipaggzpkbvmkv.png",
                             "satellite": ""
+                        },
+                        {
+                            "name": "Claro TV+",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/nxcihtioan4baszup3ko.png",
+                            "satellite": ""
                         }
                     ],
                     "commentator": "غير محدد"
@@ -386,6 +346,16 @@
                             "name": "SPOTV Prime",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/hi0rgpuipaggzpkbvmkv.png",
                             "satellite": ""
+                        },
+                        {
+                            "name": "Claro TV+",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/nxcihtioan4baszup3ko.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "Premier Sports 2",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/agqzirlsyndlmserty3i.png",
+                            "satellite": ""
                         }
                     ],
                     "commentator": "غير محدد"
@@ -446,6 +416,16 @@
                         {
                             "name": "fuboTV",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_541g3NFSdww7eRBiegMj_logo.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "TOD",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/wepqrh3hppobqeophbbg.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "Dialog TV",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1780891617965_b2mcmj.png",
                             "satellite": ""
                         }
                     ],
