@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-11 02:15:59",
+    "last_updated": "2026-06-11 10:00:39",
     "data": [
         {
             "name": "بطولة غير معروفة",
@@ -282,6 +282,26 @@
                             "name": "TVCG 1 SD",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1781003744201_gw5c46.png",
                             "satellite": "استرا 23"
+                        },
+                        {
+                            "name": "Hagerie TV",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1781163260901_dxqzlr.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "KBC Channel 1",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1780892234870_t072kg.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "ICE Xtra",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/zldrw9drtpdvtyherjy4.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "ZNBC TV1 Zambia",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/co166e6vzpueys8adyz0.png",
+                            "satellite": ""
                         }
                     ],
                     "commentator": "غير محدد"
