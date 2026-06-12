@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-12 09:52:58",
+    "last_updated": "2026-06-12 14:28:28",
     "data": [
         {
             "name": "بطولة غير معروفة",
@@ -483,6 +483,11 @@
                             "name": "KC2 Rwanda",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/bnvbx6o95ki1cz6tpr72.png",
                             "satellite": ""
+                        },
+                        {
+                            "name": "CRTV Sports",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/cjjkfks0i2ayzgk1nlrz.png",
+                            "satellite": "يوتل 16 (إفريقيا)"
                         }
                     ],
                     "commentator": "غير محدد"
