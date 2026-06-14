@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-14 08:58:56",
+    "last_updated": "2026-06-14 13:23:37",
     "data": [
         {
             "name": "بطولة غير معروفة",
@@ -194,11 +194,6 @@
                             "satellite": ""
                         },
                         {
-                            "name": "Zoʻr TV",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_8Fwoa39Yz7NHPJ5yw6LY_logo.png",
-                            "satellite": ""
-                        },
-                        {
                             "name": "Televen",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/equtimkjttzwswudvytl.png",
                             "satellite": ""
@@ -282,6 +277,16 @@
                             "name": "CRTV Sports",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/cjjkfks0i2ayzgk1nlrz.png",
                             "satellite": "يوتل 16 (إفريقيا)"
+                        },
+                        {
+                            "name": "ICE Xtra",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/zldrw9drtpdvtyherjy4.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "NC la 1ere",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1781435775047_uucelb.png",
+                            "satellite": ""
                         }
                     ],
                     "commentator": "غير محدد"
@@ -303,11 +308,6 @@
                             "name": "DStv Now",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_6mK8M0ITrmTRUWnwvU3q_logo.png",
                             "satellite": ""
-                        },
-                        {
-                            "name": "Das Erste HD",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/fk33m2cvo0cbx8qggb29.png",
-                            "satellite": "استرا 19"
                         },
                         {
                             "name": "Nexgen",
@@ -442,11 +442,6 @@
                         {
                             "name": "fuboTV",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_541g3NFSdww7eRBiegMj_logo.png",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "Zoʻr TV",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_8Fwoa39Yz7NHPJ5yw6LY_logo.png",
                             "satellite": ""
                         },
                         {
@@ -641,11 +636,6 @@
                             "satellite": ""
                         },
                         {
-                            "name": "Zoʻr TV",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_8Fwoa39Yz7NHPJ5yw6LY_logo.png",
-                            "satellite": ""
-                        },
-                        {
                             "name": "VTV 3",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1780729087170_yh3feo.png",
                             "satellite": ""
@@ -679,6 +669,26 @@
                             "name": "MONOMAX",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/uajc0vldwyp8mflnim17.png",
                             "satellite": ""
+                        },
+                        {
+                            "name": "TVM",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/rmytzflauuvkpeqhalcj.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "YES",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1781435695836_phy7df.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "ICE Xtra",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/zldrw9drtpdvtyherjy4.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "TVCG 2 HD",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/st3c8asw5qiwzuo05ylk.png",
+                            "satellite": "استرا 23"
                         }
                     ],
                     "commentator": "غير محدد"
@@ -705,11 +715,6 @@
                             "name": "DStv Now",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_6mK8M0ITrmTRUWnwvU3q_logo.png",
                             "satellite": ""
-                        },
-                        {
-                            "name": "Das Erste HD",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/fk33m2cvo0cbx8qggb29.png",
-                            "satellite": "استرا 19"
                         },
                         {
                             "name": "Nexgen",
@@ -847,11 +852,6 @@
                             "satellite": ""
                         },
                         {
-                            "name": "Zoʻr TV",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_8Fwoa39Yz7NHPJ5yw6LY_logo.png",
-                            "satellite": ""
-                        },
-                        {
                             "name": "Televen",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/equtimkjttzwswudvytl.png",
                             "satellite": ""
@@ -905,6 +905,26 @@
                             "name": "MONOMAX",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/uajc0vldwyp8mflnim17.png",
                             "satellite": ""
+                        },
+                        {
+                            "name": "TVM",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/rmytzflauuvkpeqhalcj.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "YES",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1781435695836_phy7df.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "ICE Xtra",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/zldrw9drtpdvtyherjy4.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "TVCG 2 HD",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/st3c8asw5qiwzuo05ylk.png",
+                            "satellite": "استرا 23"
                         }
                     ],
                     "commentator": "غير محدد"
@@ -1098,11 +1118,6 @@
                             "satellite": ""
                         },
                         {
-                            "name": "Zoʻr TV",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_8Fwoa39Yz7NHPJ5yw6LY_logo.png",
-                            "satellite": ""
-                        },
-                        {
                             "name": "VTV 3",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1780729087170_yh3feo.png",
                             "satellite": ""
@@ -1136,6 +1151,16 @@
                             "name": "MONOMAX",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/uajc0vldwyp8mflnim17.png",
                             "satellite": ""
+                        },
+                        {
+                            "name": "ICE Xtra",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/zldrw9drtpdvtyherjy4.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "TVCG 1 SD",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1781003744201_gw5c46.png",
+                            "satellite": "استرا 23"
                         }
                     ],
                     "commentator": "غير محدد"
