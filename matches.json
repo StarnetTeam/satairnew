@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-15 02:30:37",
+    "last_updated": "2026-06-15 11:40:06",
     "data": [
         {
             "name": "بطولة غير معروفة",
@@ -463,6 +463,21 @@
                             "name": "TVCG 2 HD",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/st3c8asw5qiwzuo05ylk.png",
                             "satellite": "استرا 23"
+                        },
+                        {
+                            "name": "TVM",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/rmytzflauuvkpeqhalcj.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "YES",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1781435695836_phy7df.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "ICE Xtra",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/zldrw9drtpdvtyherjy4.png",
+                            "satellite": ""
                         }
                     ],
                     "commentator": "غير محدد"
@@ -714,6 +729,16 @@
                             "name": "TVCG 2 HD",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/st3c8asw5qiwzuo05ylk.png",
                             "satellite": "استرا 23"
+                        },
+                        {
+                            "name": "YES",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1781435695836_phy7df.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "ICE Xtra",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/zldrw9drtpdvtyherjy4.png",
+                            "satellite": ""
                         }
                     ],
                     "commentator": "غير محدد"
@@ -930,6 +955,21 @@
                             "name": "TVCG 1 SD",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1781003744201_gw5c46.png",
                             "satellite": "استرا 23"
+                        },
+                        {
+                            "name": "TVM",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/rmytzflauuvkpeqhalcj.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "YES",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1781435695836_phy7df.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "ICE Xtra",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/zldrw9drtpdvtyherjy4.png",
+                            "satellite": ""
                         }
                     ],
                     "commentator": "غير محدد"
