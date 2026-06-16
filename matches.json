@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-16 10:49:31",
+    "last_updated": "2026-06-16 16:18:31",
     "data": [
         {
             "name": "بطولة غير معروفة",
@@ -448,6 +448,16 @@
                             "name": "ICE Xtra",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/zldrw9drtpdvtyherjy4.png",
                             "satellite": ""
+                        },
+                        {
+                            "name": "TVM",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/rmytzflauuvkpeqhalcj.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "YES",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1781435695836_phy7df.png",
+                            "satellite": ""
                         }
                     ],
                     "commentator": "غير محدد"
@@ -739,6 +749,11 @@
                             "name": "Makan 33 SD",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1776090816834_z7cm3r.png",
                             "satellite": "اموس"
+                        },
+                        {
+                            "name": "YES",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1781435695836_phy7df.png",
+                            "satellite": ""
                         }
                     ],
                     "commentator": "غير محدد"
