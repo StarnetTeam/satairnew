@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-17 10:22:03",
+    "last_updated": "2026-06-17 14:45:53",
     "data": [
         {
             "name": "بطولة غير معروفة",
@@ -1216,6 +1216,16 @@
                             "name": "YES",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1781435695836_phy7df.png",
                             "satellite": ""
+                        },
+                        {
+                            "name": "Jurnal TV",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1781003220912_8ofaur.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "TVCG 1 SD",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1781003744201_gw5c46.png",
+                            "satellite": "استرا 23"
                         }
                     ],
                     "commentator": "غير محدد"
