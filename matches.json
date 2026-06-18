@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-18 10:01:39",
+    "last_updated": "2026-06-18 14:40:02",
     "data": [
         {
             "name": "بطولة غير معروفة",
@@ -24,9 +24,9 @@
                             "satellite": "بدر 26"
                         },
                         {
-                            "name": "DAZN Mundial",
+                            "name": "DAZN Mundial HD",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1780728288827_kmjktu.png",
-                            "satellite": ""
+                            "satellite": "استرا 19"
                         },
                         {
                             "name": "DStv Now",
@@ -237,6 +237,11 @@
                             "name": "TVCG 2 HD",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/st3c8asw5qiwzuo05ylk.png",
                             "satellite": "استرا 23"
+                        },
+                        {
+                            "name": "CDN Deportes",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1780886290590_bzfr59.png",
+                            "satellite": ""
                         }
                     ],
                     "commentator": "غير محدد"
@@ -260,9 +265,9 @@
                             "satellite": "بدر 26"
                         },
                         {
-                            "name": "DAZN Mundial",
+                            "name": "DAZN Mundial HD",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1780728288827_kmjktu.png",
-                            "satellite": ""
+                            "satellite": "استرا 19"
                         },
                         {
                             "name": "DStv Now",
@@ -486,9 +491,9 @@
                             "satellite": "بدر 26"
                         },
                         {
-                            "name": "DAZN Mundial",
+                            "name": "DAZN Mundial HD",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1780728288827_kmjktu.png",
-                            "satellite": ""
+                            "satellite": "استرا 19"
                         },
                         {
                             "name": "M6 HD",
@@ -729,6 +734,11 @@
                             "name": "TVCG 2 HD",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/st3c8asw5qiwzuo05ylk.png",
                             "satellite": "استرا 23"
+                        },
+                        {
+                            "name": "CDN Deportes",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1780886290590_bzfr59.png",
+                            "satellite": ""
                         }
                     ],
                     "commentator": "غير محدد"
@@ -752,9 +762,9 @@
                             "satellite": "بدر 26"
                         },
                         {
-                            "name": "DAZN Mundial",
+                            "name": "DAZN Mundial HD",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1780728288827_kmjktu.png",
-                            "satellite": ""
+                            "satellite": "استرا 19"
                         },
                         {
                             "name": "M6 HD",
