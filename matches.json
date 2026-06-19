@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-19 14:37:28",
+    "last_updated": "2026-06-19 19:21:59",
     "data": [
         {
             "name": "بطولة غير معروفة",
@@ -468,6 +468,11 @@
                             "name": "TVCG 2 HD",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/st3c8asw5qiwzuo05ylk.png",
                             "satellite": "استرا 23"
+                        },
+                        {
+                            "name": "CDN",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1781892660068_nodzxz.png",
+                            "satellite": ""
                         }
                     ],
                     "commentator": "غير محدد"
