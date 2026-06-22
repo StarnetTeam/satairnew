@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-22 16:23:21",
+    "last_updated": "2026-06-22 20:29:51",
     "data": [
         {
             "name": "بطولة غير معروفة",
@@ -256,6 +256,11 @@
                         {
                             "name": "CDN Deportes",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1780886290590_bzfr59.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "CDN",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1781892660068_nodzxz.png",
                             "satellite": ""
                         }
                     ],
@@ -738,6 +743,21 @@
                         {
                             "name": "CDN Deportes",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1780886290590_bzfr59.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "Tele Rebelde",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_7gidd1XtAWCQexjXW4l7_logo.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "JTBC",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1780729480894_v3ip9h.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "Jurnal TV",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1781003220912_8ofaur.png",
                             "satellite": ""
                         }
                     ],
