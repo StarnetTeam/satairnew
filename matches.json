@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-27 13:03:32",
+    "last_updated": "2026-06-27 18:59:56",
     "data": [
         {
             "name": "بطولة غير معروفة",
@@ -232,6 +232,41 @@
                             "name": "Digiturk Play",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_62Dtc7GWE5fLu9sfVh3H_logo.png",
                             "satellite": ""
+                        },
+                        {
+                            "name": "SporTV",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/becmpbeomuqhiznjc1gf.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "SBT",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_1VRaqhX4B709xCCDmjVh_logo.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "Claro TV+",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/nxcihtioan4baszup3ko.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "CDN",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1781892660068_nodzxz.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "RSI La 2 HD",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/dxqaqwaljkwz8rbthlb0.png",
+                            "satellite": "هوت بيرد"
+                        },
+                        {
+                            "name": "TVM",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/rmytzflauuvkpeqhalcj.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "ICE Xtra",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/zldrw9drtpdvtyherjy4.png",
+                            "satellite": ""
                         }
                     ],
                     "commentator": "غير محدد"
@@ -428,6 +463,31 @@
                             "name": "Digiturk Play",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_62Dtc7GWE5fLu9sfVh3H_logo.png",
                             "satellite": ""
+                        },
+                        {
+                            "name": "Arena 1 Premium Bosnia",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1776259632840_qql9wh.png",
+                            "satellite": "يوتل 16"
+                        },
+                        {
+                            "name": "Claro TV+",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/nxcihtioan4baszup3ko.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "CDN Deportes",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1780886290590_bzfr59.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "YES",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1781435695836_phy7df.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "TBC1",
+                            "logo": "",
+                            "satellite": ""
                         }
                     ],
                     "commentator": "غير محدد"
@@ -609,6 +669,21 @@
                             "name": "Digiturk Play",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_62Dtc7GWE5fLu9sfVh3H_logo.png",
                             "satellite": ""
+                        },
+                        {
+                            "name": "CDN Deportes",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1780886290590_bzfr59.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "RSI La 2 HD",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/dxqaqwaljkwz8rbthlb0.png",
+                            "satellite": "هوت بيرد"
+                        },
+                        {
+                            "name": "YES",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1781435695836_phy7df.png",
+                            "satellite": ""
                         }
                     ],
                     "commentator": "غير محدد"
@@ -779,6 +854,36 @@
                         {
                             "name": "Digiturk Play",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_62Dtc7GWE5fLu9sfVh3H_logo.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "Arena 1 Premium Bosnia",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1776259632840_qql9wh.png",
+                            "satellite": "يوتل 16"
+                        },
+                        {
+                            "name": "Claro TV+",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/nxcihtioan4baszup3ko.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "CDN",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1781892660068_nodzxz.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "TVM",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/rmytzflauuvkpeqhalcj.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "ICE Xtra",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/zldrw9drtpdvtyherjy4.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "Jurnal TV",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1781003220912_8ofaur.png",
                             "satellite": ""
                         }
                     ],
@@ -981,6 +1086,26 @@
                             "name": "Digiturk Play",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_62Dtc7GWE5fLu9sfVh3H_logo.png",
                             "satellite": ""
+                        },
+                        {
+                            "name": "Claro TV+",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/nxcihtioan4baszup3ko.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "RSI La 2 HD",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/dxqaqwaljkwz8rbthlb0.png",
+                            "satellite": "هوت بيرد"
+                        },
+                        {
+                            "name": "TVM",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/rmytzflauuvkpeqhalcj.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "ICE Xtra",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/zldrw9drtpdvtyherjy4.png",
+                            "satellite": ""
                         }
                     ],
                     "commentator": "غير محدد"
@@ -1176,6 +1301,21 @@
                         {
                             "name": "Digiturk Play",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_62Dtc7GWE5fLu9sfVh3H_logo.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "Tigo Sports 2 Bolivia",
+                            "logo": "",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "YES",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1781435695836_phy7df.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "TBC1",
+                            "logo": "",
                             "satellite": ""
                         }
                     ],
