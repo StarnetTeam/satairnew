@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-27 01:57:16",
+    "last_updated": "2026-06-27 08:23:25",
     "data": [
         {
             "name": "بطولة غير معروفة",
@@ -798,202 +798,6 @@
                     "score": "---",
                     "channels": [
                         {
-                            "name": "DStv Now",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_6mK8M0ITrmTRUWnwvU3q_logo.png",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "Nexgen",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/to7uxtk5j992qoi255cn.png",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "Entel TV",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/o1s5qpq9qkk1l2wlhda2.png",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "Arena Cloud",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1781003188432_wxfe59.png",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "MONOMAX",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/uajc0vldwyp8mflnim17.png",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "CRTV Sports",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/cjjkfks0i2ayzgk1nlrz.png",
-                            "satellite": "يوتل 16 (إفريقيا)"
-                        },
-                        {
-                            "name": "DIRECTV Sports Chile",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/aw0nhaeqrbxj43epgc49.png",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "DIRECTV Sports Colombia",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/evi4ocncmpcicurtogtd.png",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "FOX+",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/sntr6xs5uywzrjkf4ywo.png",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "Tigo Sports El Salvador",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/ngqlgxdkfhnjlet7omau.png",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "Hagerie TV",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1781163260901_dxqzlr.png",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "ZDF HD",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1776345717316_cy2zu9.png",
-                            "satellite": "استرا 19"
-                        },
-                        {
-                            "name": "TeleOnce Guatemala",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1780728567640_43ti39.png",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "Duna World SD",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1781789900288_r4p28n.png",
-                            "satellite": "ثور"
-                        },
-                        {
-                            "name": "MAXstream TV",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1780891697685_pc979h.png",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "MyTelkomsel",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1780729593742_tgofik.png",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "Fola Play",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1780728503348_22kq4e.png",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "BBC Radio 5 Live",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_4K4gLEc8rV8fRRkhgLhv_logo.webp",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "DAZN Italia",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_2QL9qP7zB1JL9eJJXqVO_logo.webp",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "GOtv",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/lblmbiehhastcmkfqq48.png",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "KBC Channel 1",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1780892234870_t072kg.png",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "KBSN Sports",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1782262593340_oxc8zn.png",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "TVM",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/rmytzflauuvkpeqhalcj.png",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "TV 2 Play",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/w74o2p2vcv2abh2gujrk.png",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "Aleph Arena",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1780728025515_xmb7by.png",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "RTV Rwanda",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/r7owmhuduy8djkke35mo.png",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "KC2 Rwanda",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/bnvbx6o95ki1cz6tpr72.png",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "Supersport Grandstand",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/r02vxkoqbmrd9b1delsx.png",
-                            "satellite": "إكسبرس 36 (إفريقيا)"
-                        },
-                        {
-                            "name": "Dialog TV",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1780891617965_b2mcmj.png",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "fuboTV",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_541g3NFSdww7eRBiegMj_logo.png",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "Televen",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/equtimkjttzwswudvytl.png",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "VTV 3",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1780729087170_yh3feo.png",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "ZNBC TV1 Zambia",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/co166e6vzpueys8adyz0.png",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "Talksport 2 Radio UK",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_863k1wQRozrLRxjGJgqX_logo.webp",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "TVCG 1 SD",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1781003744201_gw5c46.png",
-                            "satellite": "استرا 23"
-                        },
-                        {
-                            "name": "Digiturk Play",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_62Dtc7GWE5fLu9sfVh3H_logo.png",
-                            "satellite": ""
-                        }
-                    ],
-                    "commentator": "غير محدد"
-                },
-                {
-                    "home": {
-                        "name": "Unknown",
-                        "logo": ""
-                    },
-                    "away": {
-                        "name": "Unknown",
-                        "logo": ""
-                    },
-                    "time": "10:59 م",
-                    "status": "لم تبدأ",
-                    "score": "---",
-                    "channels": [
-                        {
                             "name": "beIN SPORTS MAX 5",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1780700213270_lofu9b.png",
                             "satellite": "بدر 26"
@@ -1172,6 +976,202 @@
                             "name": "ViX",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_4bJoxHNV6YNOcSEyy1nT_logo.png",
                             "satellite": ""
+                        },
+                        {
+                            "name": "Digiturk Play",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_62Dtc7GWE5fLu9sfVh3H_logo.png",
+                            "satellite": ""
+                        }
+                    ],
+                    "commentator": "غير محدد"
+                },
+                {
+                    "home": {
+                        "name": "Unknown",
+                        "logo": ""
+                    },
+                    "away": {
+                        "name": "Unknown",
+                        "logo": ""
+                    },
+                    "time": "10:59 م",
+                    "status": "لم تبدأ",
+                    "score": "---",
+                    "channels": [
+                        {
+                            "name": "DStv Now",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_6mK8M0ITrmTRUWnwvU3q_logo.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "Nexgen",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/to7uxtk5j992qoi255cn.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "Entel TV",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/o1s5qpq9qkk1l2wlhda2.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "Arena Cloud",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1781003188432_wxfe59.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "MONOMAX",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/uajc0vldwyp8mflnim17.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "CRTV Sports",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/cjjkfks0i2ayzgk1nlrz.png",
+                            "satellite": "يوتل 16 (إفريقيا)"
+                        },
+                        {
+                            "name": "DIRECTV Sports Chile",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/aw0nhaeqrbxj43epgc49.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "DIRECTV Sports Colombia",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/evi4ocncmpcicurtogtd.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "FOX+",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/sntr6xs5uywzrjkf4ywo.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "Tigo Sports El Salvador",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/ngqlgxdkfhnjlet7omau.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "Hagerie TV",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1781163260901_dxqzlr.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "ZDF HD",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1776345717316_cy2zu9.png",
+                            "satellite": "استرا 19"
+                        },
+                        {
+                            "name": "TeleOnce Guatemala",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1780728567640_43ti39.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "Duna World SD",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1781789900288_r4p28n.png",
+                            "satellite": "ثور"
+                        },
+                        {
+                            "name": "MAXstream TV",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1780891697685_pc979h.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "MyTelkomsel",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1780729593742_tgofik.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "Fola Play",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1780728503348_22kq4e.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "BBC Radio 5 Live",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_4K4gLEc8rV8fRRkhgLhv_logo.webp",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "DAZN Italia",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_2QL9qP7zB1JL9eJJXqVO_logo.webp",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "GOtv",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/lblmbiehhastcmkfqq48.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "KBC Channel 1",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1780892234870_t072kg.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "KBSN Sports",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1782262593340_oxc8zn.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "TVM",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/rmytzflauuvkpeqhalcj.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "TV 2 Play",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/w74o2p2vcv2abh2gujrk.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "Aleph Arena",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1780728025515_xmb7by.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "RTV Rwanda",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/r7owmhuduy8djkke35mo.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "KC2 Rwanda",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/bnvbx6o95ki1cz6tpr72.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "Supersport Grandstand",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/r02vxkoqbmrd9b1delsx.png",
+                            "satellite": "إكسبرس 36 (إفريقيا)"
+                        },
+                        {
+                            "name": "Dialog TV",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1780891617965_b2mcmj.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "fuboTV",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_541g3NFSdww7eRBiegMj_logo.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "Televen",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/equtimkjttzwswudvytl.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "VTV 3",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1780729087170_yh3feo.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "ZNBC TV1 Zambia",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/co166e6vzpueys8adyz0.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "Talksport 2 Radio UK",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_863k1wQRozrLRxjGJgqX_logo.webp",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "TVCG 1 SD",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1781003744201_gw5c46.png",
+                            "satellite": "استرا 23"
                         },
                         {
                             "name": "Digiturk Play",
