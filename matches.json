@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-29 15:24:40",
+    "last_updated": "2026-06-29 19:29:43",
     "data": [
         {
             "name": "بطولة غير معروفة",
@@ -242,6 +242,51 @@
                             "name": "JTBC",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1780729480894_v3ip9h.png",
                             "satellite": ""
+                        },
+                        {
+                            "name": "CRTV Sports",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/cjjkfks0i2ayzgk1nlrz.png",
+                            "satellite": "يوتل 16 (إفريقيا)"
+                        },
+                        {
+                            "name": "Tele Rebelde",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_7gidd1XtAWCQexjXW4l7_logo.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "CDN Deportes",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1780886290590_bzfr59.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "MAXstream TV",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1780891697685_pc979h.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "RTV Rwanda",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/r7owmhuduy8djkke35mo.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "KC2 Rwanda",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/bnvbx6o95ki1cz6tpr72.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "TBC1",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1782602574661_m22k82.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "Televen",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/equtimkjttzwswudvytl.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "ZNBC TV1 Zambia",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/co166e6vzpueys8adyz0.png",
+                            "satellite": ""
                         }
                     ],
                     "commentator": "غير محدد"
@@ -453,6 +498,46 @@
                             "name": "Supersport Grandstand",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/r02vxkoqbmrd9b1delsx.png",
                             "satellite": "إكسبرس 36 (إفريقيا)"
+                        },
+                        {
+                            "name": "SporTV",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/becmpbeomuqhiznjc1gf.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "SBT",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_1VRaqhX4B709xCCDmjVh_logo.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "Claro TV+",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/nxcihtioan4baszup3ko.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "ViX",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_4bJoxHNV6YNOcSEyy1nT_logo.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "Tele Rebelde",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_7gidd1XtAWCQexjXW4l7_logo.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "CDN Deportes",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1780886290590_bzfr59.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "MAXstream TV",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1780891697685_pc979h.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "GOtv",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/lblmbiehhastcmkfqq48.png",
+                            "satellite": ""
                         }
                     ],
                     "commentator": "غير محدد"
