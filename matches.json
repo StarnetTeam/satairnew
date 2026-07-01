@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-01 02:08:19",
+    "last_updated": "2026-07-01 09:25:17",
     "data": [
         {
             "name": "بطولة غير معروفة",
@@ -237,6 +237,16 @@
                             "name": "Supersport Grandstand",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/r02vxkoqbmrd9b1delsx.png",
                             "satellite": "إكسبرس 36 (إفريقيا)"
+                        },
+                        {
+                            "name": "CDN Deportes",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1780886290590_bzfr59.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "GOtv",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/lblmbiehhastcmkfqq48.png",
+                            "satellite": ""
                         }
                     ],
                     "commentator": "غير محدد"
@@ -488,6 +498,16 @@
                             "name": "Supersport Grandstand",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/r02vxkoqbmrd9b1delsx.png",
                             "satellite": "إكسبرس 36 (إفريقيا)"
+                        },
+                        {
+                            "name": "TVCG 2 HD",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/st3c8asw5qiwzuo05ylk.png",
+                            "satellite": "استرا 23"
+                        },
+                        {
+                            "name": "NC la 1ere",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1781435775047_uucelb.png",
+                            "satellite": ""
                         }
                     ],
                     "commentator": "غير محدد"
@@ -744,6 +764,16 @@
                             "name": "Supersport Grandstand",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/r02vxkoqbmrd9b1delsx.png",
                             "satellite": "إكسبرس 36 (إفريقيا)"
+                        },
+                        {
+                            "name": "Jurnal TV",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1781003220912_8ofaur.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "TVCG 1 SD",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1781003744201_gw5c46.png",
+                            "satellite": "استرا 23"
                         }
                     ],
                     "commentator": "غير محدد"
