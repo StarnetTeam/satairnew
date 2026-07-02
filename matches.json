@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-02 13:25:02",
+    "last_updated": "2026-07-02 19:05:11",
     "data": [
         {
             "name": "بطولة غير معروفة",
@@ -222,6 +222,11 @@
                             "name": "TVCG 1 SD",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1781003744201_gw5c46.png",
                             "satellite": "استرا 23"
+                        },
+                        {
+                            "name": "RTK 1 SD",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_0FmOIOOLWRV9EbwNZ0kS_logo.png",
+                            "satellite": "يوتل 16"
                         }
                     ],
                     "commentator": "غير محدد"
@@ -522,6 +527,16 @@
                         {
                             "name": "NC la 1ere",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1781435775047_uucelb.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "TDP Play",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1780886144175_wes590.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "MEGOGO Football 1",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_3yr6vhRMIhuhhZsYNIe3_logo.jpg",
                             "satellite": ""
                         }
                     ],
