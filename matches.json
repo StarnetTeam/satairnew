@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-03 01:44:36",
+    "last_updated": "2026-07-03 08:44:29",
     "data": [
         {
             "name": "بطولة غير معروفة",
@@ -478,6 +478,16 @@
                             "name": "MONOMAX Sports",
                             "logo": "",
                             "satellite": ""
+                        },
+                        {
+                            "name": "CDN",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1781892660068_nodzxz.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "RTK 1 SD",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_0FmOIOOLWRV9EbwNZ0kS_logo.png",
+                            "satellite": "يوتل 16"
                         }
                     ],
                     "commentator": "غير محدد"
