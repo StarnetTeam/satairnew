@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-05 13:02:04",
+    "last_updated": "2026-07-05 18:56:26",
     "data": [
         {
             "name": "بطولة غير معروفة",
@@ -296,6 +296,11 @@
                         {
                             "name": "TVRI",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/fdykq2mekm0a0tgogile.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "Televen",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/equtimkjttzwswudvytl.png",
                             "satellite": ""
                         }
                     ],
