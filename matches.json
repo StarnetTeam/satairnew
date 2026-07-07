@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-07 01:51:38",
+    "last_updated": "2026-07-07 09:19:01",
     "data": [
         {
             "name": "بطولة غير معروفة",
@@ -211,6 +211,16 @@
                         {
                             "name": "GOtv",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/lblmbiehhastcmkfqq48.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "TVCG 2 HD",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/st3c8asw5qiwzuo05ylk.png",
+                            "satellite": "استرا 23"
+                        },
+                        {
+                            "name": "NRK Sport",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1780703296748_pjd6u7.png",
                             "satellite": ""
                         }
                     ],
@@ -483,6 +493,41 @@
                             "name": "ZNBC TV1 Zambia",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/co166e6vzpueys8adyz0.png",
                             "satellite": ""
+                        },
+                        {
+                            "name": "M6 HD",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_2Z1xczP4VJ0mvzhwZErq_logo.png",
+                            "satellite": "هوت بيرد"
+                        },
+                        {
+                            "name": "La 2 Cat",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1780685067291_g13taw.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "ditu",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/lq1klsojsecomqb8amxz.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "GOtv",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/lblmbiehhastcmkfqq48.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "Jurnal TV",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1781003220912_8ofaur.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "TV 2 Play",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/w74o2p2vcv2abh2gujrk.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "MEGOGO Football 1",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_3yr6vhRMIhuhhZsYNIe3_logo.jpg",
+                            "satellite": ""
                         }
                     ],
                     "commentator": "غير محدد"
@@ -748,6 +793,21 @@
                         {
                             "name": "Digiturk Play",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_62Dtc7GWE5fLu9sfVh3H_logo.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "M6 HD",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_2Z1xczP4VJ0mvzhwZErq_logo.png",
+                            "satellite": "هوت بيرد"
+                        },
+                        {
+                            "name": "TVCG 1 SD",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1781003744201_gw5c46.png",
+                            "satellite": "استرا 23"
+                        },
+                        {
+                            "name": "NRK Sport",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1780703296748_pjd6u7.png",
                             "satellite": ""
                         }
                     ],
