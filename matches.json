@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-09 01:30:41",
+    "last_updated": "2026-07-09 09:00:08",
     "data": [
         {
             "name": "بطولة غير معروفة",
@@ -296,6 +296,11 @@
                         {
                             "name": "ZNBC TV1 Zambia",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/co166e6vzpueys8adyz0.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "ViuTV",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1780729436085_nqakex.png",
                             "satellite": ""
                         }
                     ],
