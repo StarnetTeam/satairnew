@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-10 19:12:32",
+    "last_updated": "2026-07-11 01:21:47",
     "data": [
         {
             "name": "بطولة غير معروفة",
@@ -14,15 +14,10 @@
                         "name": "Unknown",
                         "logo": ""
                     },
-                    "time": "9:00 م",
+                    "time": "10:59 م",
                     "status": "لم تبدأ",
                     "score": "---",
                     "channels": [
-                        {
-                            "name": "beIN SPORTS MAX 5",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1780700213270_lofu9b.png",
-                            "satellite": "بدر 26"
-                        },
                         {
                             "name": "DAZN Mundial HD",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1780728288827_kmjktu.png",
@@ -34,13 +29,13 @@
                             "satellite": "هوت بيرد"
                         },
                         {
-                            "name": "La 2 Cat",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1780685067291_g13taw.png",
+                            "name": "DStv Now",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_6mK8M0ITrmTRUWnwvU3q_logo.png",
                             "satellite": ""
                         },
                         {
-                            "name": "DStv Now",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_6mK8M0ITrmTRUWnwvU3q_logo.png",
+                            "name": "ServusTV On",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1782602829319_fymr0h.png",
                             "satellite": ""
                         },
                         {
@@ -84,8 +79,8 @@
                             "satellite": ""
                         },
                         {
-                            "name": "Tele Rebelde",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_7gidd1XtAWCQexjXW4l7_logo.png",
+                            "name": "TV2 Denmark",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/f3nimvhvoh1bc55cyasz.png",
                             "satellite": ""
                         },
                         {
@@ -94,9 +89,14 @@
                             "satellite": ""
                         },
                         {
-                            "name": "ZDF HD",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1776345717316_cy2zu9.png",
-                            "satellite": "استرا 19"
+                            "name": "TV4 Sweden",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1780729379686_xl12ff.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "YLE Areena",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1780703269231_svul8c.png",
+                            "satellite": ""
                         },
                         {
                             "name": "M4 Sport SD",
@@ -119,6 +119,11 @@
                             "satellite": ""
                         },
                         {
+                            "name": "STV HD",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/omfoc0bmwqmftxy1ltvi.png",
+                            "satellite": "استرا 28"
+                        },
+                        {
                             "name": "BBC Radio 5 Live",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_4K4gLEc8rV8fRRkhgLhv_logo.webp",
                             "satellite": ""
@@ -126,16 +131,6 @@
                         {
                             "name": "DAZN Italia",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_2QL9qP7zB1JL9eJJXqVO_logo.webp",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "GOtv",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/lblmbiehhastcmkfqq48.png",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "KBC Channel 1",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1780892234870_t072kg.png",
                             "satellite": ""
                         },
                         {
@@ -189,6 +184,16 @@
                             "satellite": ""
                         },
                         {
+                            "name": "TRT 1 HD",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_1yiaM4VmhFhbpxtHHml6_logo.png",
+                            "satellite": "التركي 42"
+                        },
+                        {
+                            "name": "Digiturk Play",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_62Dtc7GWE5fLu9sfVh3H_logo.png",
+                            "satellite": ""
+                        },
+                        {
                             "name": "MEGOGO Football 1",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_3yr6vhRMIhuhhZsYNIe3_logo.jpg",
                             "satellite": ""
@@ -204,54 +209,29 @@
                             "satellite": ""
                         },
                         {
-                            "name": "SporTV",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/becmpbeomuqhiznjc1gf.png",
+                            "name": "beIN SPORTS MAX 5",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1780700213270_lofu9b.png",
+                            "satellite": "بدر 26"
+                        },
+                        {
+                            "name": "ViX",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_4bJoxHNV6YNOcSEyy1nT_logo.png",
                             "satellite": ""
                         },
                         {
-                            "name": "SBT",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_1VRaqhX4B709xCCDmjVh_logo.png",
+                            "name": "GOtv",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/lblmbiehhastcmkfqq48.png",
                             "satellite": ""
                         },
                         {
-                            "name": "Claro TV+",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/nxcihtioan4baszup3ko.png",
+                            "name": "Azteca Deportes En Vivo",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/ampfo1gvobicsa2ovilm.png",
                             "satellite": ""
-                        },
-                        {
-                            "name": "Teleamazonas",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1780729523889_byeseu.png",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "BBC iPlayer",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/acqzl9bevwgf1irbhsst.png",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "TVCG 1 SD",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1781003744201_gw5c46.png",
-                            "satellite": "استرا 23"
                         },
                         {
                             "name": "Supersport Grandstand",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/r02vxkoqbmrd9b1delsx.png",
                             "satellite": "إكسبرس 36 (إفريقيا)"
-                        },
-                        {
-                            "name": "TRT 1 HD",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_1yiaM4VmhFhbpxtHHml6_logo.png",
-                            "satellite": "التركي 42"
-                        },
-                        {
-                            "name": "Digiturk Play",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_62Dtc7GWE5fLu9sfVh3H_logo.png",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "TDP Play",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1780886144175_wes590.png",
-                            "satellite": ""
                         },
                         {
                             "name": "CRTV Sports",
@@ -264,19 +244,24 @@
                             "satellite": ""
                         },
                         {
-                            "name": "TeleOnce Guatemala",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1780728567640_43ti39.png",
+                            "name": "ViuTV",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1780729436085_nqakex.png",
                             "satellite": ""
                         },
                         {
-                            "name": "RTK 1 SD",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_0FmOIOOLWRV9EbwNZ0kS_logo.png",
-                            "satellite": "يوتل 16"
+                            "name": "KBC Channel 1",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1780892234870_t072kg.png",
+                            "satellite": ""
                         },
                         {
                             "name": "Jurnal TV",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1781003220912_8ofaur.png",
                             "satellite": ""
+                        },
+                        {
+                            "name": "TVCG 1 SD",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1781003744201_gw5c46.png",
+                            "satellite": "استرا 23"
                         },
                         {
                             "name": "RTV Rwanda",
@@ -294,11 +279,6 @@
                             "satellite": ""
                         },
                         {
-                            "name": "Televen",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/equtimkjttzwswudvytl.png",
-                            "satellite": ""
-                        },
-                        {
                             "name": "ZNBC TV1 Zambia",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/co166e6vzpueys8adyz0.png",
                             "satellite": ""
@@ -306,6 +286,11 @@
                         {
                             "name": "TVRI",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/fdykq2mekm0a0tgogile.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "NC la 1ere",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1781435775047_uucelb.png",
                             "satellite": ""
                         }
                     ],
