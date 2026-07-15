@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-14 18:57:50",
+    "last_updated": "2026-07-15 01:10:56",
     "data": [
         {
             "name": "بطولة غير معروفة",
@@ -34,11 +34,6 @@
                             "satellite": "هوت بيرد"
                         },
                         {
-                            "name": "TDP Play",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1780886144175_wes590.png",
-                            "satellite": ""
-                        },
-                        {
                             "name": "La 2 Cat",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1780685067291_g13taw.png",
                             "satellite": ""
@@ -46,6 +41,11 @@
                         {
                             "name": "DStv Now",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_6mK8M0ITrmTRUWnwvU3q_logo.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "ServusTV On",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1782602829319_fymr0h.png",
                             "satellite": ""
                         },
                         {
@@ -61,6 +61,16 @@
                         {
                             "name": "Arena Cloud",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1781003188432_wxfe59.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "SporTV",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/becmpbeomuqhiznjc1gf.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "SBT",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_1VRaqhX4B709xCCDmjVh_logo.png",
                             "satellite": ""
                         },
                         {
@@ -104,6 +114,11 @@
                             "satellite": ""
                         },
                         {
+                            "name": "TV2 Denmark",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/f3nimvhvoh1bc55cyasz.png",
+                            "satellite": ""
+                        },
+                        {
                             "name": "CDN Deportes",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1780886290590_bzfr59.png",
                             "satellite": ""
@@ -124,8 +139,8 @@
                             "satellite": ""
                         },
                         {
-                            "name": "YLE Areena",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1780703269231_svul8c.png",
+                            "name": "TV4 Sweden",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1780729379686_xl12ff.png",
                             "satellite": ""
                         },
                         {
@@ -159,9 +174,9 @@
                             "satellite": ""
                         },
                         {
-                            "name": "STV HD",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/omfoc0bmwqmftxy1ltvi.png",
-                            "satellite": "استرا 28"
+                            "name": "BBC iPlayer",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/acqzl9bevwgf1irbhsst.png",
+                            "satellite": ""
                         },
                         {
                             "name": "BBC Radio 5 Live",
@@ -214,6 +229,11 @@
                             "satellite": "استرا 23"
                         },
                         {
+                            "name": "TVCG 2 HD",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/st3c8asw5qiwzuo05ylk.png",
+                            "satellite": "استرا 23"
+                        },
+                        {
                             "name": "Himalaya Sports TV",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1780728676320_zzf3hb.png",
                             "satellite": ""
@@ -249,11 +269,6 @@
                             "satellite": ""
                         },
                         {
-                            "name": "Supersport Grandstand",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/r02vxkoqbmrd9b1delsx.png",
-                            "satellite": "إكسبرس 36 (إفريقيا)"
-                        },
-                        {
                             "name": "Dialog TV",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1780891617965_b2mcmj.png",
                             "satellite": ""
@@ -271,11 +286,6 @@
                         {
                             "name": "Digiturk Play",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_62Dtc7GWE5fLu9sfVh3H_logo.png",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "MEGOGO Football 1",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_3yr6vhRMIhuhhZsYNIe3_logo.jpg",
                             "satellite": ""
                         },
                         {
@@ -299,14 +309,14 @@
                             "satellite": ""
                         },
                         {
-                            "name": "ViX",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_4bJoxHNV6YNOcSEyy1nT_logo.png",
+                            "name": "Claro TV+",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/nxcihtioan4baszup3ko.png",
                             "satellite": ""
                         },
                         {
-                            "name": "ZDF HD",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1776345717316_cy2zu9.png",
-                            "satellite": "استرا 19"
+                            "name": "ViX",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_4bJoxHNV6YNOcSEyy1nT_logo.png",
+                            "satellite": ""
                         },
                         {
                             "name": "ViuTV",
@@ -321,6 +331,16 @@
                         {
                             "name": "Jurnal TV",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1781003220912_8ofaur.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "Supersport Grandstand",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/r02vxkoqbmrd9b1delsx.png",
+                            "satellite": "إكسبرس 36 (إفريقيا)"
+                        },
+                        {
+                            "name": "MEGOGO Football 1",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_3yr6vhRMIhuhhZsYNIe3_logo.jpg",
                             "satellite": ""
                         }
                     ],
