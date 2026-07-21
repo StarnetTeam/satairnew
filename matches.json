@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-21 13:10:05",
+    "last_updated": "2026-07-21 19:00:14",
     "data": [
         {
             "name": "بطولة غير معروفة",
@@ -17,7 +17,23 @@
                     "time": "6:00 م",
                     "status": "لم تبدأ",
                     "score": "---",
-                    "channels": [],
+                    "channels": [
+                        {
+                            "name": "Claro TV+",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/nxcihtioan4baszup3ko.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "Official Live",
+                            "logo": "",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "Canal 11 HD",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_08HfOajfuWoT2yTF7XEW_logo.png",
+                            "satellite": "هيسباسات"
+                        }
+                    ],
                     "commentator": "غير محدد"
                 },
                 {
@@ -122,7 +138,38 @@
                     "time": "8:30 م",
                     "status": "لم تبدأ",
                     "score": "---",
-                    "channels": [],
+                    "channels": [
+                        {
+                            "name": "Claro TV+",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/nxcihtioan4baszup3ko.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "Persiana Sports 3",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/rfh9bqywygled2lgur3x.png",
+                            "satellite": "التركماني 52"
+                        },
+                        {
+                            "name": "5PLUS HD",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_2EII2nSDYCfyW7dZPQj1_logo.png",
+                            "satellite": "اموس"
+                        },
+                        {
+                            "name": "Arena Cloud",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1781003188432_wxfe59.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "Canal 11 HD",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_08HfOajfuWoT2yTF7XEW_logo.png",
+                            "satellite": "هيسباسات"
+                        },
+                        {
+                            "name": "fuboTV",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_541g3NFSdww7eRBiegMj_logo.png",
+                            "satellite": ""
+                        }
+                    ],
                     "commentator": "غير محدد"
                 },
                 {
@@ -270,21 +317,6 @@
                         "logo": ""
                     },
                     "time": "4:00 م",
-                    "status": "لم تبدأ",
-                    "score": "---",
-                    "channels": [],
-                    "commentator": "غير محدد"
-                },
-                {
-                    "home": {
-                        "name": "Unknown",
-                        "logo": ""
-                    },
-                    "away": {
-                        "name": "Unknown",
-                        "logo": ""
-                    },
-                    "time": "2:00 م",
                     "status": "لم تبدأ",
                     "score": "---",
                     "channels": [],
