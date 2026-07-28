@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-28 08:10:36",
+    "last_updated": "2026-07-28 13:25:23",
     "data": [
         {
             "name": "بطولة غير معروفة",
@@ -109,7 +109,7 @@
                     "status": "لم تبدأ",
                     "score": "---",
                     "channels": [],
-                    "commentator": "غير محدد"
+                    "commentator": "تعليق إسباني"
                 },
                 {
                     "home": {
@@ -123,7 +123,23 @@
                     "time": "2:00 م",
                     "status": "لم تبدأ",
                     "score": "---",
-                    "channels": [],
+                    "channels": [
+                        {
+                            "name": "fuboTV",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_541g3NFSdww7eRBiegMj_logo.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "NWSL+",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/tdjcqe11ofposnxifows.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "ViX",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_4bJoxHNV6YNOcSEyy1nT_logo.png",
+                            "satellite": ""
+                        }
+                    ],
                     "commentator": "غير محدد"
                 },
                 {
@@ -138,7 +154,13 @@
                     "time": "5:00 م",
                     "status": "لم تبدأ",
                     "score": "---",
-                    "channels": [],
+                    "channels": [
+                        {
+                            "name": "DAZN Italia",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_2QL9qP7zB1JL9eJJXqVO_logo.webp",
+                            "satellite": ""
+                        }
+                    ],
                     "commentator": "غير محدد"
                 },
                 {
@@ -168,7 +190,13 @@
                     "time": "6:00 م",
                     "status": "لم تبدأ",
                     "score": "---",
-                    "channels": [],
+                    "channels": [
+                        {
+                            "name": "Digiturk Play",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_62Dtc7GWE5fLu9sfVh3H_logo.png",
+                            "satellite": ""
+                        }
+                    ],
                     "commentator": "غير محدد"
                 },
                 {
@@ -213,7 +241,23 @@
                     "time": "8:45 م",
                     "status": "لم تبدأ",
                     "score": "---",
-                    "channels": [],
+                    "channels": [
+                        {
+                            "name": "beIN SPORTS 3",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/gv1tkusmd6wpxwa1zpt6.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "beIN Sports Connect Philippines",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_2OKPnbw1V2nfozOgbgl7_logo.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "Digiturk Play",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_62Dtc7GWE5fLu9sfVh3H_logo.png",
+                            "satellite": ""
+                        }
+                    ],
                     "commentator": "غير محدد"
                 },
                 {
@@ -228,8 +272,29 @@
                     "time": "10:00 م",
                     "status": "لم تبدأ",
                     "score": "---",
-                    "channels": [],
+                    "channels": [
+                        {
+                            "name": "Como",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/bihokyo5lhelguj2qpeh.png",
+                            "satellite": ""
+                        }
+                    ],
                     "commentator": "غير محدد"
+                },
+                {
+                    "home": {
+                        "name": "Unknown",
+                        "logo": ""
+                    },
+                    "away": {
+                        "name": "Unknown",
+                        "logo": ""
+                    },
+                    "time": "7:00 م",
+                    "status": "لم تبدأ",
+                    "score": "---",
+                    "channels": [],
+                    "commentator": "خالد المديفر"
                 }
             ],
             "standings": []
