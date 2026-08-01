@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-01 07:58:24",
+    "last_updated": "2026-08-01 12:50:15",
     "data": [
         {
             "name": "بطولة غير معروفة",
@@ -118,6 +118,11 @@
                             "name": "ViX",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_4bJoxHNV6YNOcSEyy1nT_logo.png",
                             "satellite": ""
+                        },
+                        {
+                            "name": "fuboTV",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_541g3NFSdww7eRBiegMj_logo.png",
+                            "satellite": ""
                         }
                     ],
                     "commentator": "غير محدد"
@@ -184,11 +189,6 @@
                         {
                             "name": "S Sport+",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/dnn6v1a8kgm0okng2wh3.png",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "beIN Sports 1 Hong Kong",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/yon0wcad8n7ksfmf3z52.png",
                             "satellite": ""
                         },
                         {
@@ -269,11 +269,6 @@
                     "score": "---",
                     "channels": [
                         {
-                            "name": "beIN Sports 1 Hong Kong",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/yon0wcad8n7ksfmf3z52.png",
-                            "satellite": ""
-                        },
-                        {
                             "name": "beIN Sports 1 Indonesia",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/j6l2ug1zs3xqaaaglc0s.png",
                             "satellite": ""
@@ -302,6 +297,11 @@
                             "name": "Sharjah Sports HD",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/guxqeilxwdicolvdiyak.png",
                             "satellite": "نايل سات"
+                        },
+                        {
+                            "name": "Persiana Sports 3",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/rfh9bqywygled2lgur3x.png",
+                            "satellite": "التركماني 52"
                         }
                     ],
                     "commentator": "غير محدد"
