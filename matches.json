@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-02 08:00:06",
+    "last_updated": "2026-08-02 12:52:15",
     "data": [
         {
             "name": "بطولة غير معروفة",
@@ -500,6 +500,11 @@
                             "name": "S Sport+",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/dnn6v1a8kgm0okng2wh3.png",
                             "satellite": ""
+                        },
+                        {
+                            "name": "TV100",
+                            "logo": "",
+                            "satellite": ""
                         }
                     ],
                     "commentator": "غير محدد"
@@ -540,6 +545,11 @@
                         {
                             "name": "Arena Cloud",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1781003188432_wxfe59.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "Digiturk Play",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_62Dtc7GWE5fLu9sfVh3H_logo.png",
                             "satellite": ""
                         }
                     ],
@@ -642,6 +652,16 @@
                         {
                             "name": "beIN Sports Connect Philippines",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_2OKPnbw1V2nfozOgbgl7_logo.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "DAZN Italia",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_2QL9qP7zB1JL9eJJXqVO_logo.webp",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "Digiturk Play",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_62Dtc7GWE5fLu9sfVh3H_logo.png",
                             "satellite": ""
                         }
                     ],
