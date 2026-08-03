@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-03 08:56:45",
+    "last_updated": "2026-08-03 14:10:06",
     "data": [
         {
             "name": "بطولة غير معروفة",
@@ -32,6 +32,26 @@
                             "name": "ViX",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_4bJoxHNV6YNOcSEyy1nT_logo.png",
                             "satellite": ""
+                        },
+                        {
+                            "name": "Nexgen",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/to7uxtk5j992qoi255cn.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "Claro TV+",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/nxcihtioan4baszup3ko.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "Como",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/bihokyo5lhelguj2qpeh.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "fuboTV",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_541g3NFSdww7eRBiegMj_logo.png",
+                            "satellite": ""
                         }
                     ],
                     "commentator": "غير محدد"
@@ -58,6 +78,11 @@
                             "name": "ViX",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_4bJoxHNV6YNOcSEyy1nT_logo.png",
                             "satellite": ""
+                        },
+                        {
+                            "name": "fuboTV",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_541g3NFSdww7eRBiegMj_logo.png",
+                            "satellite": ""
                         }
                     ],
                     "commentator": "غير محدد"
@@ -79,6 +104,11 @@
                             "name": "ViX",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_4bJoxHNV6YNOcSEyy1nT_logo.png",
                             "satellite": ""
+                        },
+                        {
+                            "name": "fuboTV",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_541g3NFSdww7eRBiegMj_logo.png",
+                            "satellite": ""
                         }
                     ],
                     "commentator": "غير محدد"
@@ -96,6 +126,72 @@
                     "status": "لم تبدأ",
                     "score": "---",
                     "channels": [],
+                    "commentator": "جعفر الصليح"
+                },
+                {
+                    "home": {
+                        "name": "Unknown",
+                        "logo": ""
+                    },
+                    "away": {
+                        "name": "Unknown",
+                        "logo": ""
+                    },
+                    "time": "8:30 م",
+                    "status": "لم تبدأ",
+                    "score": "---",
+                    "channels": [
+                        {
+                            "name": "Sharjah Sports HD",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/guxqeilxwdicolvdiyak.png",
+                            "satellite": "نايل سات"
+                        },
+                        {
+                            "name": "ESPN Africa",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_56JPeWKQFhLJIkv1r0WZ_logo.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "DStv Now",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_6mK8M0ITrmTRUWnwvU3q_logo.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "Arena Cloud",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1781003188432_wxfe59.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "NOW",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/syatlbarv3aev47csmp6.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "Como",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/bihokyo5lhelguj2qpeh.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "GOtv",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/lblmbiehhastcmkfqq48.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "ART Sport 1",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_60YMlyoQGyTUOzdN9Zek_logo.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "S Sport+",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/dnn6v1a8kgm0okng2wh3.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "Setanta Sports Ukraine",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_2PebfH87iRCz6uut8GWH_logo.png",
+                            "satellite": "قبرص"
+                        }
+                    ],
                     "commentator": "غير محدد"
                 }
             ],
