@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-03 19:14:40",
+    "last_updated": "2026-08-04 01:16:57",
     "data": [
         {
             "name": "بطولة غير معروفة",
@@ -14,43 +14,18 @@
                         "name": "Unknown",
                         "logo": ""
                     },
-                    "time": "12:15 ص",
+                    "time": "12:00 ص",
                     "status": "لم تبدأ",
                     "score": "---",
                     "channels": [
                         {
-                            "name": "Premier Sports 2",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/agqzirlsyndlmserty3i.png",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "Arena Cloud",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1781003188432_wxfe59.png",
+                            "name": "Max Argentina",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/evzrdjsiirrxeyzsb5rt.png",
                             "satellite": ""
                         },
                         {
                             "name": "ViX",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_4bJoxHNV6YNOcSEyy1nT_logo.png",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "Nexgen",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/to7uxtk5j992qoi255cn.png",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "Claro TV+",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/nxcihtioan4baszup3ko.png",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "Como",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/bihokyo5lhelguj2qpeh.png",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "fuboTV",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_541g3NFSdww7eRBiegMj_logo.png",
                             "satellite": ""
                         }
                     ],
@@ -65,7 +40,69 @@
                         "name": "Unknown",
                         "logo": ""
                     },
-                    "time": "2:30 ص",
+                    "time": "12:00 ص",
+                    "status": "لم تبدأ",
+                    "score": "---",
+                    "channels": [
+                        {
+                            "name": "ViX",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_4bJoxHNV6YNOcSEyy1nT_logo.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "fuboTV",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_541g3NFSdww7eRBiegMj_logo.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "Arena 1 Premium Bosnia",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1776259632840_qql9wh.png",
+                            "satellite": "يوتل 16"
+                        },
+                        {
+                            "name": "Arena Cloud",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1781003188432_wxfe59.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "Como",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/bihokyo5lhelguj2qpeh.png",
+                            "satellite": ""
+                        }
+                    ],
+                    "commentator": "غير محدد"
+                },
+                {
+                    "home": {
+                        "name": "Unknown",
+                        "logo": ""
+                    },
+                    "away": {
+                        "name": "Unknown",
+                        "logo": ""
+                    },
+                    "time": "2:15 ص",
+                    "status": "لم تبدأ",
+                    "score": "---",
+                    "channels": [
+                        {
+                            "name": "ViX",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_4bJoxHNV6YNOcSEyy1nT_logo.png",
+                            "satellite": ""
+                        }
+                    ],
+                    "commentator": "غير محدد"
+                },
+                {
+                    "home": {
+                        "name": "Unknown",
+                        "logo": ""
+                    },
+                    "away": {
+                        "name": "Unknown",
+                        "logo": ""
+                    },
+                    "time": "2:15 ص",
                     "status": "لم تبدأ",
                     "score": "---",
                     "channels": [
@@ -96,21 +133,10 @@
                         "name": "Unknown",
                         "logo": ""
                     },
-                    "time": "9:45 م",
+                    "time": "1:00 م",
                     "status": "لم تبدأ",
                     "score": "---",
-                    "channels": [
-                        {
-                            "name": "ViX",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_4bJoxHNV6YNOcSEyy1nT_logo.png",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "fuboTV",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_541g3NFSdww7eRBiegMj_logo.png",
-                            "satellite": ""
-                        }
-                    ],
+                    "channels": [],
                     "commentator": "غير محدد"
                 },
                 {
@@ -126,7 +152,7 @@
                     "status": "لم تبدأ",
                     "score": "---",
                     "channels": [],
-                    "commentator": "جعفر الصليح"
+                    "commentator": "غير محدد"
                 },
                 {
                     "home": {
@@ -137,59 +163,127 @@
                         "name": "Unknown",
                         "logo": ""
                     },
-                    "time": "8:30 م",
+                    "time": "8:00 م",
                     "status": "لم تبدأ",
                     "score": "---",
                     "channels": [
                         {
-                            "name": "Sharjah Sports HD",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/guxqeilxwdicolvdiyak.png",
-                            "satellite": "نايل سات"
-                        },
-                        {
-                            "name": "ESPN Africa",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_56JPeWKQFhLJIkv1r0WZ_logo.png",
+                            "name": "BBC iPlayer",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/acqzl9bevwgf1irbhsst.png",
                             "satellite": ""
                         },
                         {
-                            "name": "DStv Now",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_6mK8M0ITrmTRUWnwvU3q_logo.png",
+                            "name": "DAZN Italia",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_2QL9qP7zB1JL9eJJXqVO_logo.webp",
+                            "satellite": ""
+                        }
+                    ],
+                    "commentator": "غير محدد"
+                },
+                {
+                    "home": {
+                        "name": "Unknown",
+                        "logo": ""
+                    },
+                    "away": {
+                        "name": "Unknown",
+                        "logo": ""
+                    },
+                    "time": "2:00 م",
+                    "status": "لم تبدأ",
+                    "score": "---",
+                    "channels": [
+                        {
+                            "name": "Sling TV",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1785454700331_l918p7.png",
                             "satellite": ""
                         },
+                        {
+                            "name": "beIN SPORTS en Español",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1785585779808_kdvjng.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "fuboTV",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_541g3NFSdww7eRBiegMj_logo.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "Estrella TV",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1785454808954_chqwu0.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "NWSL+",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/tdjcqe11ofposnxifows.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "Victory+",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1785454783043_549hzp.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "ViX",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_4bJoxHNV6YNOcSEyy1nT_logo.png",
+                            "satellite": ""
+                        }
+                    ],
+                    "commentator": "غير محدد"
+                },
+                {
+                    "home": {
+                        "name": "Unknown",
+                        "logo": ""
+                    },
+                    "away": {
+                        "name": "Unknown",
+                        "logo": ""
+                    },
+                    "time": "2:30 م",
+                    "status": "لم تبدأ",
+                    "score": "---",
+                    "channels": [
+                        {
+                            "name": "MONOMAX",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/uajc0vldwyp8mflnim17.png",
+                            "satellite": ""
+                        }
+                    ],
+                    "commentator": "غير محدد"
+                },
+                {
+                    "home": {
+                        "name": "Unknown",
+                        "logo": ""
+                    },
+                    "away": {
+                        "name": "Unknown",
+                        "logo": ""
+                    },
+                    "time": "6:00 م",
+                    "status": "لم تبدأ",
+                    "score": "---",
+                    "channels": [],
+                    "commentator": "غير محدد"
+                },
+                {
+                    "home": {
+                        "name": "Unknown",
+                        "logo": ""
+                    },
+                    "away": {
+                        "name": "Unknown",
+                        "logo": ""
+                    },
+                    "time": "8:45 م",
+                    "status": "لم تبدأ",
+                    "score": "---",
+                    "channels": [
                         {
                             "name": "Arena Cloud",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1781003188432_wxfe59.png",
                             "satellite": ""
-                        },
-                        {
-                            "name": "NOW",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/syatlbarv3aev47csmp6.png",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "Como",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/bihokyo5lhelguj2qpeh.png",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "GOtv",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/lblmbiehhastcmkfqq48.png",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "ART Sport 1",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_60YMlyoQGyTUOzdN9Zek_logo.png",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "S Sport+",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/dnn6v1a8kgm0okng2wh3.png",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "Setanta Sports Ukraine",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_2PebfH87iRCz6uut8GWH_logo.png",
-                            "satellite": "قبرص"
                         }
                     ],
                     "commentator": "غير محدد"
