@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-04 08:13:16",
+    "last_updated": "2026-08-04 13:40:03",
     "data": [
         {
             "name": "بطولة غير معروفة",
@@ -152,7 +152,7 @@
                     "status": "لم تبدأ",
                     "score": "---",
                     "channels": [],
-                    "commentator": "غير محدد"
+                    "commentator": "خالد المديفر"
                 },
                 {
                     "home": {
@@ -192,43 +192,7 @@
                     "time": "2:00 م",
                     "status": "لم تبدأ",
                     "score": "---",
-                    "channels": [
-                        {
-                            "name": "Sling TV",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1785454700331_l918p7.png",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "beIN SPORTS en Español",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1785585779808_kdvjng.png",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "fuboTV",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_541g3NFSdww7eRBiegMj_logo.png",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "Estrella TV",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1785454808954_chqwu0.png",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "NWSL+",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/tdjcqe11ofposnxifows.png",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "Victory+",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1785454783043_549hzp.png",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "ViX",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_4bJoxHNV6YNOcSEyy1nT_logo.png",
-                            "satellite": ""
-                        }
-                    ],
+                    "channels": [],
                     "commentator": "غير محدد"
                 },
                 {
