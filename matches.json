@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-05 01:20:23",
+    "last_updated": "2026-08-05 08:12:08",
     "data": [
         {
             "name": "بطولة غير معروفة",
@@ -46,6 +46,11 @@
                         {
                             "name": "Astro Go",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_59NMnzdwsebW7N9fZBjo_logo.webp",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "HOY TV",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/swd85tvdxxvyjsmerx3b.png",
                             "satellite": ""
                         }
                     ],
@@ -118,6 +123,11 @@
                         {
                             "name": "DIRECTV Sports Colombia",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/evi4ocncmpcicurtogtd.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "TOD",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/wepqrh3hppobqeophbbg.png",
                             "satellite": ""
                         }
                     ],
@@ -290,6 +300,21 @@
                             "satellite": ""
                         }
                     ],
+                    "commentator": "غير محدد"
+                },
+                {
+                    "home": {
+                        "name": "Unknown",
+                        "logo": ""
+                    },
+                    "away": {
+                        "name": "Unknown",
+                        "logo": ""
+                    },
+                    "time": "5:45 م",
+                    "status": "لم تبدأ",
+                    "score": "---",
+                    "channels": [],
                     "commentator": "غير محدد"
                 }
             ],
