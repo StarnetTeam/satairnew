@@ -1,103 +1,10 @@
 {
-    "last_updated": "2026-08-06 23:46:04",
+    "last_updated": "2026-08-07 01:58:53",
     "data": [
         {
             "name": "بطولة غير معروفة",
             "logo": "",
             "matches": [
-                {
-                    "home": {
-                        "name": "Unknown",
-                        "logo": ""
-                    },
-                    "away": {
-                        "name": "Unknown",
-                        "logo": ""
-                    },
-                    "time": "12:00 ص",
-                    "status": "لم تبدأ",
-                    "score": "---",
-                    "channels": [
-                        {
-                            "name": "Max Argentina",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/evzrdjsiirrxeyzsb5rt.png",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "Arena 1 Premium Bosnia",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1776259632840_qql9wh.png",
-                            "satellite": "يوتل 16"
-                        },
-                        {
-                            "name": "Arena Cloud",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1781003188432_wxfe59.png",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "Como",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/bihokyo5lhelguj2qpeh.png",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "ViX",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_4bJoxHNV6YNOcSEyy1nT_logo.png",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "fuboTV",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_541g3NFSdww7eRBiegMj_logo.png",
-                            "satellite": ""
-                        }
-                    ],
-                    "commentator": "غير محدد"
-                },
-                {
-                    "home": {
-                        "name": "Unknown",
-                        "logo": ""
-                    },
-                    "away": {
-                        "name": "Unknown",
-                        "logo": ""
-                    },
-                    "time": "2:15 ص",
-                    "status": "لم تبدأ",
-                    "score": "---",
-                    "channels": [
-                        {
-                            "name": "ViX",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_4bJoxHNV6YNOcSEyy1nT_logo.png",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "fuboTV",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_541g3NFSdww7eRBiegMj_logo.png",
-                            "satellite": ""
-                        }
-                    ],
-                    "commentator": "غير محدد"
-                },
-                {
-                    "home": {
-                        "name": "Unknown",
-                        "logo": ""
-                    },
-                    "away": {
-                        "name": "Unknown",
-                        "logo": ""
-                    },
-                    "time": "8:00 م",
-                    "status": "لم تبدأ",
-                    "score": "---",
-                    "channels": [
-                        {
-                            "name": "DAZN Italia",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_2QL9qP7zB1JL9eJJXqVO_logo.webp",
-                            "satellite": ""
-                        }
-                    ],
-                    "commentator": "غير محدد"
-                },
                 {
                     "home": {
                         "name": "Unknown",
@@ -122,7 +29,99 @@
                         "name": "Unknown",
                         "logo": ""
                     },
-                    "time": "8:00 م",
+                    "time": "12:00 ص",
+                    "status": "لم تبدأ",
+                    "score": "---",
+                    "channels": [
+                        {
+                            "name": "Max Argentina",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/evzrdjsiirrxeyzsb5rt.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "ViX",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_4bJoxHNV6YNOcSEyy1nT_logo.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "fuboTV",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_541g3NFSdww7eRBiegMj_logo.png",
+                            "satellite": ""
+                        }
+                    ],
+                    "commentator": "غير محدد"
+                },
+                {
+                    "home": {
+                        "name": "Unknown",
+                        "logo": ""
+                    },
+                    "away": {
+                        "name": "Unknown",
+                        "logo": ""
+                    },
+                    "time": "2:00 م",
+                    "status": "لم تبدأ",
+                    "score": "---",
+                    "channels": [
+                        {
+                            "name": "Claro TV+",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/nxcihtioan4baszup3ko.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "ViuTV",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1780729436085_nqakex.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "fuboTV",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_541g3NFSdww7eRBiegMj_logo.png",
+                            "satellite": ""
+                        }
+                    ],
+                    "commentator": "غير محدد"
+                },
+                {
+                    "home": {
+                        "name": "Unknown",
+                        "logo": ""
+                    },
+                    "away": {
+                        "name": "Unknown",
+                        "logo": ""
+                    },
+                    "time": "12:00 م",
+                    "status": "لم تبدأ",
+                    "score": "---",
+                    "channels": [],
+                    "commentator": "غير محدد"
+                },
+                {
+                    "home": {
+                        "name": "Unknown",
+                        "logo": ""
+                    },
+                    "away": {
+                        "name": "Unknown",
+                        "logo": ""
+                    },
+                    "time": "7:00 م",
+                    "status": "لم تبدأ",
+                    "score": "---",
+                    "channels": [],
+                    "commentator": "غير محدد"
+                },
+                {
+                    "home": {
+                        "name": "Unknown",
+                        "logo": ""
+                    },
+                    "away": {
+                        "name": "Unknown",
+                        "logo": ""
+                    },
+                    "time": "8:45 م",
                     "status": "لم تبدأ",
                     "score": "---",
                     "channels": [],
