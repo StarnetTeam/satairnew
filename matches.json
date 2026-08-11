@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-11 12:36:10",
+    "last_updated": "2026-08-11 18:42:45",
     "data": [
         {
             "name": "بطولة غير معروفة",
@@ -47,6 +47,11 @@
                             "name": "Arena Cloud",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1781003188432_wxfe59.png",
                             "satellite": ""
+                        },
+                        {
+                            "name": "Arena 1 Premium Bosnia",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1776259632840_qql9wh.png",
+                            "satellite": "يوتل 16"
                         }
                     ],
                     "commentator": "غير محدد"
@@ -185,6 +190,11 @@
                             "name": "fuboTV",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_541g3NFSdww7eRBiegMj_logo.png",
                             "satellite": ""
+                        },
+                        {
+                            "name": "TV 100 HD",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1785759884879_hhxp6z.png",
+                            "satellite": "التركي 42"
                         }
                     ],
                     "commentator": "غير محدد"
@@ -257,43 +267,7 @@
                     "time": "12:30 م",
                     "status": "لم تبدأ",
                     "score": "---",
-                    "channels": [
-                        {
-                            "name": "Sling TV",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1785454700331_l918p7.png",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "beIN SPORTS en Español",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1785585779808_kdvjng.png",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "fuboTV",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_541g3NFSdww7eRBiegMj_logo.png",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "Estrella TV",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1785454808954_chqwu0.png",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "MSG",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1785454748718_rxd2l4.png",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "NWSL+",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/tdjcqe11ofposnxifows.png",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "ViX",
-                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_4bJoxHNV6YNOcSEyy1nT_logo.png",
-                            "satellite": ""
-                        }
-                    ],
+                    "channels": [],
                     "commentator": "غير محدد"
                 },
                 {
@@ -323,7 +297,13 @@
                     "time": "6:00 م",
                     "status": "لم تبدأ",
                     "score": "---",
-                    "channels": [],
+                    "channels": [
+                        {
+                            "name": "Persiana Sports 3",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/rfh9bqywygled2lgur3x.png",
+                            "satellite": "التركماني 52"
+                        }
+                    ],
                     "commentator": "غير محدد"
                 },
                 {
@@ -575,6 +555,16 @@
                             "name": "Sharjah Sports HD",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/guxqeilxwdicolvdiyak.png",
                             "satellite": "نايل سات"
+                        },
+                        {
+                            "name": "Arena 1 Premium Bosnia",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1776259632840_qql9wh.png",
+                            "satellite": "يوتل 16"
+                        },
+                        {
+                            "name": "DIRECTV Sports Colombia",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/evi4ocncmpcicurtogtd.png",
+                            "satellite": ""
                         }
                     ],
                     "commentator": "غير محدد"
