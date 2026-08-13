@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-13 07:07:09",
+    "last_updated": "2026-08-13 12:39:49",
     "data": [
         {
             "name": "كأس الدوريات",
@@ -27,6 +27,11 @@
                         {
                             "name": "SCCN",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_VmdqpTd0ixCWwrAkT4gf_logo.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "Nexgen",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/to7uxtk5j992qoi255cn.png",
                             "satellite": ""
                         }
                     ],
@@ -118,6 +123,11 @@
                         {
                             "name": "Imagen Televisión",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1786275380137_xkd26k.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "Nexgen",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/to7uxtk5j992qoi255cn.png",
                             "satellite": ""
                         }
                     ],
@@ -274,6 +284,11 @@
                             "name": "S Sport+",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/dnn6v1a8kgm0okng2wh3.png",
                             "satellite": ""
+                        },
+                        {
+                            "name": "Onefootball",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/tznamsdbsrv4xo9sffcf.png",
+                            "satellite": ""
                         }
                     ],
                     "commentator": "غير محدد"
@@ -401,6 +416,11 @@
                             "name": "Polsat Sport Premium 2",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_A6LmcwpVzFKz7RfuMU6H_logo.png",
                             "satellite": "هوت بيرد"
+                        },
+                        {
+                            "name": "Persiana Sports 2",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/y5fmkdvhomue2luwhpls.png",
+                            "satellite": "التركماني 52"
                         }
                     ],
                     "commentator": "غير محدد"
@@ -457,11 +477,6 @@
                             "name": "MAX Sport 3 HD",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_EkP1Unj5uGbLrcSunpX8_logo.png",
                             "satellite": "هوت بيرد"
-                        },
-                        {
-                            "name": "Open TV",
-                            "logo": "",
-                            "satellite": ""
                         },
                         {
                             "name": "Arena 1 Premium Serbia",
@@ -563,6 +578,11 @@
                             "name": "ESPN App",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_GxJYZ4m2GIuZ7g65US9q_logo.png",
                             "satellite": ""
+                        },
+                        {
+                            "name": "Persiana Sports 1",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/o929grlewfgs014beeut.png",
+                            "satellite": "التركماني 52"
                         }
                     ],
                     "commentator": "غير محدد"
@@ -712,6 +732,41 @@
                             "name": "M+ Vamos HD",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_jre3OBETHJwlDUpCzEIS_logo.png",
                             "satellite": "استرا 19"
+                        },
+                        {
+                            "name": "DAZN France",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_hjdl9IIevLXgUBFFnMw4_logo.webp",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "Begin",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/clgs70jujzmn2o4z1v8a.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "FOX El Salvador",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1781004276385_719t7t.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "FOX Guatemala",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1781004288685_qel4b4.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "FOX Honduras",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1781164401000_0wimhg.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "Onefootball",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/tznamsdbsrv4xo9sffcf.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "FOX Panama",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1781164391102_5sn38v.png",
+                            "satellite": ""
                         }
                     ],
                     "commentator": "غير محدد"
@@ -938,6 +993,51 @@
                             "name": "FOX One",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_So2G1UuBcuitekZ3BtkN_logo.png",
                             "satellite": ""
+                        },
+                        {
+                            "name": "FanCode",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_Syp9MOfAH2jeUvR9E11w_logo.webp",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "DAZN France",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_hjdl9IIevLXgUBFFnMw4_logo.webp",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "ZAP",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/ihcoqr8gdeq2zuozial0.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "Begin",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/clgs70jujzmn2o4z1v8a.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "BandSports",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_MLfL0VRZCNQL17JR47Oh_logo.jpg",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "Zapping",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_JMaQkjqMvhh9B6ppDYAN_logo.webp",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "Band Play",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/jacjngcanr7wkrgxpi4u.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "SCCN",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_VmdqpTd0ixCWwrAkT4gf_logo.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "HT Spor",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1785370813556_t6huzo.png",
+                            "satellite": "التركي 42"
                         }
                     ],
                     "commentator": "غير محدد"
@@ -1230,6 +1330,11 @@
                         {
                             "name": "SCCN",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_VmdqpTd0ixCWwrAkT4gf_logo.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "Silk Universal",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_x0z3cMuE0NNNOs7uFYaF_logo.png",
                             "satellite": ""
                         }
                     ],
@@ -1742,6 +1847,11 @@
                         {
                             "name": "beIN SPORTS en Español",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1785585779808_kdvjng.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "Silk Universal",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_x0z3cMuE0NNNOs7uFYaF_logo.png",
                             "satellite": ""
                         }
                     ],
@@ -2558,6 +2668,56 @@
                             "name": "beIN SPORTS XTRA",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/dktkuz5zmaa95ja0o09h.png",
                             "satellite": ""
+                        },
+                        {
+                            "name": "SuperSport MaXimo 1",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_LFOHDsCItNAj2SiwrmnU_logo.png",
+                            "satellite": "إكسبرس 36 (إفريقيا)"
+                        },
+                        {
+                            "name": "SuperSport Football Plus ROA",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/taqleojwseefybiwlmbh.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "Supersport Grandstand ROA",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/t1iq1vcubmvux9wzaxq3.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "SuperSport GOtv Football",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/onxjsm8i7npiayxypwbh.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "fuboTV Canada",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_TL2zcIHvJflL9kYwapeN_logo.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "SuperSport Football Plus",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/a5pyjczxgjyzsowboj6n.png",
+                            "satellite": "إكسبرس 36 (إفريقيا)"
+                        },
+                        {
+                            "name": "SuperSport MáXimo 360",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/bn4o1dfqxghvmytsxh5x.png",
+                            "satellite": "إكسبرس 36 (إفريقيا)"
+                        },
+                        {
+                            "name": "SuperSport Football",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_hfcrD87iTYC3PmA0lKme_logo.png",
+                            "satellite": "إكسبرس 36 (إفريقيا)"
+                        },
+                        {
+                            "name": "Supersport Grandstand",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/r02vxkoqbmrd9b1delsx.png",
+                            "satellite": "إكسبرس 36 (إفريقيا)"
+                        },
+                        {
+                            "name": "Tubi",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/axhuf8uutlp4cadfx8t7.png",
+                            "satellite": ""
                         }
                     ],
                     "commentator": "غير محدد"
@@ -2799,6 +2959,46 @@
                             "name": "beIN SPORTS XTRA",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/dktkuz5zmaa95ja0o09h.png",
                             "satellite": ""
+                        },
+                        {
+                            "name": "SuperSport MaXimo 1",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_LFOHDsCItNAj2SiwrmnU_logo.png",
+                            "satellite": "إكسبرس 36 (إفريقيا)"
+                        },
+                        {
+                            "name": "SuperSport Football Plus ROA",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/taqleojwseefybiwlmbh.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "SuperSport GOtv Football",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/onxjsm8i7npiayxypwbh.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "fuboTV Canada",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_TL2zcIHvJflL9kYwapeN_logo.png",
+                            "satellite": ""
+                        },
+                        {
+                            "name": "SuperSport Football Plus",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/a5pyjczxgjyzsowboj6n.png",
+                            "satellite": "إكسبرس 36 (إفريقيا)"
+                        },
+                        {
+                            "name": "SuperSport MáXimo 360",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/bn4o1dfqxghvmytsxh5x.png",
+                            "satellite": "إكسبرس 36 (إفريقيا)"
+                        },
+                        {
+                            "name": "SuperSport Football",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_hfcrD87iTYC3PmA0lKme_logo.png",
+                            "satellite": "إكسبرس 36 (إفريقيا)"
+                        },
+                        {
+                            "name": "Tubi",
+                            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/axhuf8uutlp4cadfx8t7.png",
+                            "satellite": ""
                         }
                     ],
                     "commentator": "غير محدد"
@@ -2939,11 +3139,6 @@
                         {
                             "name": "VeikkausTV",
                             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_FQUQMjAK3sqOKtPsoyhp_logo.jpg",
-                            "satellite": ""
-                        },
-                        {
-                            "name": "LOITV",
-                            "logo": "",
                             "satellite": ""
                         }
                     ],
