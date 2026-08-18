@@ -19,8 +19,8 @@ COLLECTIONS = ("matchDays", "competitions", "teams", "channels")
 DEFAULT_CACHE_FILE = "satair_cache.json"
 DEFAULT_OUTPUT_FILE = "matches.json"
 
-# الافتراضي يطابق المثال المطلوب: غدًا، وبعد غد، واليوم الثالث بعد اليوم.
-# استخدم --include-today إذا أردت اليوم الحالي + اليومين التاليين.
+# الافتراضي: اليوم الحالي، وغدًا، وبعد غد.
+# استخدم --future-only إذا أردت النافذة المستقبلية فقط بدءًا من الغد.
 AUDIO_CHANNEL_TERMS = (
     "bein", "be in", "بين سبورت", "بين سبورتس", "بين", "shahid", "شاهد",
     "tod", "تود", "abu dhabi premium", "ابوظبي بريميم", "أبو ظبي بريميم",
@@ -200,7 +200,7 @@ def as_id_list(value: Any) -> List[str]:
     return ids
 
 
-def process_data(raw: Dict[str, List[Dict[str, Any]]], cache_path: Path, include_today: bool = False, days: int = 3) -> Dict[str, Any]:
+def process_data(raw: Dict[str, List[Dict[str, Any]]], cache_path: Path, include_today: bool = True, days: int = 3) -> Dict[str, Any]:
     now = datetime.now()
     first_day = now.date() if include_today else now.date() + timedelta(days=1)
     target_dates = [(first_day + timedelta(days=i)).isoformat() for i in range(days)]
@@ -267,12 +267,13 @@ def main() -> None:
     parser.add_argument("--output", default=DEFAULT_OUTPUT_FILE)
     parser.add_argument("--cache", default=DEFAULT_CACHE_FILE)
     parser.add_argument("--days", type=int, default=3)
-    parser.add_argument("--include-today", action="store_true")
+    parser.add_argument("--include-today", action="store_true", help="توافق عكسي؛ اليوم مشمول افتراضيًا")
+    parser.add_argument("--future-only", action="store_true", help="ابدأ من الغد بدلًا من اليوم الحالي")
     args = parser.parse_args()
     if args.days < 1:
         parser.error("--days يجب أن يكون أكبر من صفر")
     raw = fetch_satair_data()
-    final = process_data(raw, Path(args.cache), args.include_today, args.days)
+    final = process_data(raw, Path(args.cache), not args.future_only, args.days)
     output = Path(args.output)
     temporary = output.with_suffix(output.suffix + ".tmp")
     temporary.write_text(json.dumps(final, ensure_ascii=False, indent=2), encoding="utf-8")
