@@ -15,8 +15,10 @@ from urllib3.util.retry import Retry
 
 PROJECT_ID = "satair-6983b"
 BASE_URL = f"https://firestore.googleapis.com/v1/projects/{PROJECT_ID}/databases/(default)/documents"
-COLLECTIONS = ("matchDays", "competitions", "teams", "channels")
+# لا نحتاج competitions أو teams أثناء بناء الناتج؛ جلبهما كان يضاعف طلبات Firestore ويزيد احتمال 429.
+COLLECTIONS = ("matchDays", "channels")
 DEFAULT_CACHE_FILE = "satair_cache.json"
+DEFAULT_RAW_CACHE_FILE = "satair_raw_cache.json"
 DEFAULT_OUTPUT_FILE = "matches.json"
 
 # الافتراضي: اليوم الحالي، وغدًا، وبعد غد.
@@ -92,15 +94,23 @@ def fetch_collection(session: requests.Session, collection: str) -> List[Dict[st
             return documents
 
 
-def fetch_satair_data() -> Dict[str, List[Dict[str, Any]]]:
+def fetch_satair_data(raw_cache_path: Path = Path(DEFAULT_RAW_CACHE_FILE)) -> Dict[str, List[Dict[str, Any]]]:
+    """Fetch only required collections; fall back to the last successful payload on rate limits."""
     results: Dict[str, List[Dict[str, Any]]] = {}
+    try:
+        cached_raw = json.loads(raw_cache_path.read_text(encoding="utf-8"))
+    except (FileNotFoundError, json.JSONDecodeError, OSError):
+        cached_raw = {}
     session = make_session()
     for collection in COLLECTIONS:
         try:
             results[collection] = fetch_collection(session, collection)
+            raw_cache_path.write_text(json.dumps(results, ensure_ascii=False), encoding="utf-8")
         except requests.RequestException as exc:
-            print(f"تحذير: تعذر جلب {collection}: {exc}", file=sys.stderr)
-            results[collection] = []
+            fallback = cached_raw.get(collection, [])
+            results[collection] = fallback if isinstance(fallback, list) else []
+            message = "استخدام الكاش السابق" if fallback else "لا يوجد كاش سابق"
+            print(f"تحذير: تعذر جلب {collection}: {exc}؛ {message}.", file=sys.stderr)
     return results
 
 
@@ -324,7 +334,8 @@ def process_data(raw: Dict[str, List[Dict[str, Any]]], cache_path: Path, include
             channel_commentators = match.get("channelCommentators") or {}
             channel_commentator = channel_commentators.get(ch_id) if isinstance(channel_commentators, dict) else None
             channel_names = _commentator_names(channel_commentator)
-            if any(term in key for term in map(normalize_text, AUDIO_CHANNEL_TERMS)):
+            is_audio_channel = any(term in key for term in map(normalize_text, AUDIO_CHANNEL_TERMS)) or bool(channel_names)
+            if is_audio_channel:
                 item["commentator"] = " / ".join(channel_names) if channel_names else commentator_value(match)
                 audio.append(item)
             else:
