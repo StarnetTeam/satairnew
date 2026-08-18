@@ -15,8 +15,10 @@ from urllib3.util.retry import Retry
 
 PROJECT_ID = "satair-6983b"
 BASE_URL = f"https://firestore.googleapis.com/v1/projects/{PROJECT_ID}/databases/(default)/documents"
-COLLECTIONS = ("matchDays", "competitions", "teams", "channels")
+# لا نحتاج competitions أو teams أثناء بناء الناتج؛ جلبهما كان يضاعف طلبات Firestore ويزيد احتمال 429.
+COLLECTIONS = ("matchDays", "channels")
 DEFAULT_CACHE_FILE = "satair_cache.json"
+DEFAULT_RAW_CACHE_FILE = "satair_raw_cache.json"
 DEFAULT_OUTPUT_FILE = "matches.json"
 
 # الافتراضي: اليوم الحالي، وغدًا، وبعد غد.
@@ -39,6 +41,8 @@ NATIONAL_TERMS = ("منتخب", "منتخبات", "national team", "nations", "�
 COMMENTATOR_KEYS = (
     "commentator", "commentators", "commentatorName", "commentator_name",
     "commentatorAudio", "commentator_audio", "audioCommentator", "audio_commentator",
+    "commentatorId", "commentator_id", "voiceCommentator", "voice_commentator",
+    "المعلق", "المعلقين", "اسم المعلق", "اسم المعلقين", "التعليق", "معلق",
 )
 
 
@@ -90,15 +94,62 @@ def fetch_collection(session: requests.Session, collection: str) -> List[Dict[st
             return documents
 
 
-def fetch_satair_data() -> Dict[str, List[Dict[str, Any]]]:
-    results: Dict[str, List[Dict[str, Any]]] = {}
+def _required_channel_ids(match_days: List[Dict[str, Any]]) -> Set[str]:
+    """Find channel IDs only for non-excluded matches in the requested date window."""
+    today = datetime.now().date()
+    target_dates = {(today + timedelta(days=i)).isoformat() for i in range(3)}
+    required: Set[str] = set()
+    for day in match_days:
+        day_date = extract_date(day.get("date") or day.get("day") or day.get("matchDate"))
+        if day_date not in target_dates:
+            continue
+        candidates = ([day] if any(k in day for k in ("competition", "team1", "team2", "homeTeam", "awayTeam")) else [])
+        candidates += [m for m in (day.get("matches") or day.get("games") or []) if isinstance(m, dict)]
+        for item in candidates:
+            competition = str(item.get("competition") or item.get("competitionName") or "").strip()
+            if competition and is_excluded_competition(competition):
+                continue
+            required.update(as_id_list(item.get("channelIds") or item.get("channels") or []))
+    return required
+
+
+def _save_raw_cache(path: Path, data: Dict[str, List[Dict[str, Any]]]) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    temporary = path.with_suffix(path.suffix + ".tmp")
+    temporary.write_text(json.dumps(data, ensure_ascii=False), encoding="utf-8")
+    temporary.replace(path)
+
+
+def fetch_satair_data(raw_cache_path: Path = Path(DEFAULT_RAW_CACHE_FILE)) -> Dict[str, List[Dict[str, Any]]]:
+    """Fetch matchDays first; fetch channels only when required IDs are not already cached."""
+    try:
+        cached_raw = json.loads(raw_cache_path.read_text(encoding="utf-8"))
+    except (FileNotFoundError, json.JSONDecodeError, OSError):
+        cached_raw = {}
+    cached_match_days = cached_raw.get("matchDays", []) if isinstance(cached_raw.get("matchDays", []), list) else []
+    cached_channels = cached_raw.get("channels", []) if isinstance(cached_raw.get("channels", []), list) else []
+    results: Dict[str, List[Dict[str, Any]]] = {"matchDays": [], "channels": cached_channels}
     session = make_session()
-    for collection in COLLECTIONS:
+
+    try:
+        results["matchDays"] = fetch_collection(session, "matchDays")
+        _save_raw_cache(raw_cache_path, results)
+    except requests.RequestException as exc:
+        results["matchDays"] = cached_match_days
+        message = "استخدام كاش المباريات السابق" if cached_match_days else "لا يوجد كاش للمباريات"
+        print(f"تحذير: تعذر جلب matchDays: {exc}؛ {message}.", file=sys.stderr)
+
+    # إذا لم توجد مباريات أو كانت كل القنوات موجودة في الكاش، لا نرسل طلب channels.
+    required_ids = _required_channel_ids(results["matchDays"])
+    cached_ids = {str(ch.get("id")) for ch in cached_channels if isinstance(ch, dict)}
+    missing_ids = required_ids - cached_ids
+    if required_ids and missing_ids:
         try:
-            results[collection] = fetch_collection(session, collection)
+            results["channels"] = fetch_collection(session, "channels")
+            _save_raw_cache(raw_cache_path, results)
         except requests.RequestException as exc:
-            print(f"تحذير: تعذر جلب {collection}: {exc}", file=sys.stderr)
-            results[collection] = []
+            results["channels"] = cached_channels
+            print(f"تحذير: تعذر تحديث channels: {exc}؛ سيتم استخدام الكاش المتاح.", file=sys.stderr)
     return results
 
 
@@ -169,16 +220,84 @@ def normalize_match(match: Dict[str, Any], match_date: str) -> Dict[str, Any]:
         "time": match.get("time") or match.get("matchTime"), "status": match.get("status"),
         "stadium": match.get("stadium"), "live": bool(match.get("live", False)),
         "channelIds": match.get("channelIds") or match.get("channels") or [],
-        "commentator": match.get("commentator") or match.get("commentatorName") or match.get("commentators"),
+        "channelCommentators": match.get("channelCommentators") or match.get("channel_commentators") or {},
+        "commentator": extract_commentator(match),
     }
 
 
+def _usable_commentator_text(value: Any) -> str:
+    if isinstance(value, str):
+        text = value.strip()
+        if text and normalize_text(text) not in {"غير محدد", "غير معروف", "لم يحدد", "لم يحدد بعد", "unknown", "none", "null"}:
+            return text
+    return ""
+
+
+def _commentator_names(value: Any) -> List[str]:
+    """Extract names from strings, arrays, or Firestore map objects."""
+    if isinstance(value, str):
+        text = _usable_commentator_text(value)
+        return [text] if text else []
+    if isinstance(value, list):
+        result: List[str] = []
+        for item in value:
+            result.extend(_commentator_names(item))
+        return result
+    if isinstance(value, dict):
+        # Common object forms: {name: ...}, {displayName: ...}, {arabicName: ...}.
+        for name_key in ("name", "displayName", "arabicName", "fullName", "title", "value", "text"):
+            text = _usable_commentator_text(value.get(name_key))
+            if text:
+                return [text]
+        result: List[str] = []
+        for key, item in value.items():
+            if normalize_text(key) in {normalize_text(k) for k in COMMENTATOR_KEYS}:
+                result.extend(_commentator_names(item))
+        return result
+    return []
+
+
+def extract_commentator(value: Any) -> Any:
+    """Search recursively because the app may nest commentator under broadcast/audio maps."""
+    found: List[str] = []
+    seen: Set[str] = set()
+
+    def walk(node: Any) -> None:
+        if isinstance(node, dict):
+            for key, item in node.items():
+                key_norm = normalize_text(key).replace(" ", "")
+                is_commentator_key = (
+                    key_norm in {normalize_text(k).replace(" ", "") for k in COMMENTATOR_KEYS}
+                    or "commentator" in key_norm
+                    or "معلق" in key_norm
+                )
+                if is_commentator_key:
+                    names = _commentator_names(item)
+                    # SatAir stores channelCommentators as {channelId: {name: ...}}.
+                    if isinstance(item, dict) and not names:
+                        for child in item.values():
+                            names.extend(_commentator_names(child))
+                    for name in names:
+                        marker = normalize_text(name)
+                        if marker not in seen:
+                            seen.add(marker)
+                            found.append(name)
+                # Continue descending for nested Firestore maps and broadcast objects.
+                if isinstance(item, (dict, list)):
+                    walk(item)
+        elif isinstance(node, list):
+            for item in node:
+                walk(item)
+
+    walk(value)
+    return found if found else "غير محدد"
+
+
 def commentator_value(match: Dict[str, Any]) -> Any:
-    for key in COMMENTATOR_KEYS:
-        value = match.get(key)
-        if value not in (None, "", [], {}, "غير محدد", "غير معروف"):
-            return value
-    return "غير محدد"
+    value = match.get("commentator")
+    if isinstance(value, list) and value:
+        return " / ".join(str(item) for item in value)
+    return _usable_commentator_text(value) or "غير محدد"
 
 
 def is_excluded_competition(name: str) -> bool:
@@ -251,8 +370,12 @@ def process_data(raw: Dict[str, List[Dict[str, Any]]], cache_path: Path, include
                 if logo_value:
                     cache.setdefault("channels", {})[ch_id] = logo_value
             item = {"name": name, "logo": logo_value, "satellite": ch.get("satellite") or cached_meta.get("satellite", "")}
-            if any(term in key for term in map(normalize_text, AUDIO_CHANNEL_TERMS)):
-                item["commentator"] = commentator_value(match)
+            channel_commentators = match.get("channelCommentators") or {}
+            channel_commentator = channel_commentators.get(ch_id) if isinstance(channel_commentators, dict) else None
+            channel_names = _commentator_names(channel_commentator)
+            is_audio_channel = any(term in key for term in map(normalize_text, AUDIO_CHANNEL_TERMS)) or bool(channel_names)
+            if is_audio_channel:
+                item["commentator"] = " / ".join(channel_names) if channel_names else commentator_value(match)
                 audio.append(item)
             else:
                 regular.append(item)
