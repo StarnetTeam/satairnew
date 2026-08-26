@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-26 12:23:55",
+  "last_updated": "2026-08-26 19:29:10",
   "requested_dates": [
     "2026-08-26",
     "2026-08-27",
@@ -4491,6 +4491,11 @@
               "name": "Salom TV",
               "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1780891112827_4lakvc.png",
               "satellite": ""
+            },
+            {
+              "name": "ONE HD",
+              "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_GdD2RYgDb7phDN0utSIu_logo.png",
+              "satellite": "اموس"
             }
           ],
           "audio": [
