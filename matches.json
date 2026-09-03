@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-03 01:46:00",
+  "last_updated": "2026-09-03 10:13:55",
   "requested_dates": [
     "2026-09-03",
     "2026-09-04",
@@ -2272,15 +2272,16 @@
           "time": "5:55 م",
           "status": "لم تبدأ",
           "score": "---",
-          "channels": [
+          "channels": [],
+          "audio": [
             {
               "name": "Thmanyah",
               "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_Ko0ZIGpnRBSVYrNreUPw_logo.png",
-              "satellite": "بدر 26"
+              "satellite": "بدر 26",
+              "commentator": "سعد يحي"
             }
           ],
-          "audio": [],
-          "commentator": "غير محدد"
+          "commentator": "سعد يحي"
         },
         {
           "id": "m_1788142069757_wtkmeb",
@@ -2297,11 +2298,6 @@
           "status": "لم تبدأ",
           "score": "---",
           "channels": [
-            {
-              "name": "Thmanyah",
-              "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_Ko0ZIGpnRBSVYrNreUPw_logo.png",
-              "satellite": "بدر 26"
-            },
             {
               "name": "Onefootball",
               "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/tznamsdbsrv4xo9sffcf.png",
@@ -2353,8 +2349,15 @@
               "satellite": ""
             }
           ],
-          "audio": [],
-          "commentator": "غير محدد"
+          "audio": [
+            {
+              "name": "Thmanyah",
+              "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_Ko0ZIGpnRBSVYrNreUPw_logo.png",
+              "satellite": "بدر 26",
+              "commentator": "جعفر الصليح"
+            }
+          ],
+          "commentator": "جعفر الصليح"
         },
         {
           "id": "m_1788142069760_8yzp4e",
@@ -2371,11 +2374,6 @@
           "status": "لم تبدأ",
           "score": "---",
           "channels": [
-            {
-              "name": "Thmanyah",
-              "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_Ko0ZIGpnRBSVYrNreUPw_logo.png",
-              "satellite": "بدر 26"
-            },
             {
               "name": "DAZN France",
               "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_hjdl9IIevLXgUBFFnMw4_logo.webp",
@@ -2552,8 +2550,15 @@
               "satellite": "التركي 42"
             }
           ],
-          "audio": [],
-          "commentator": "غير محدد"
+          "audio": [
+            {
+              "name": "Thmanyah",
+              "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_Ko0ZIGpnRBSVYrNreUPw_logo.png",
+              "satellite": "بدر 26",
+              "commentator": "عبد الله الحربي"
+            }
+          ],
+          "commentator": "عبد الله الحربي"
         },
         {
           "id": "m_1788142069929_3tdjw7",
@@ -10823,82 +10828,82 @@
               "name": "beIN SPORTS 1",
               "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_s1n4HXtS7Rq2hqahn29z_logo.png",
               "satellite": "نايل سات",
-              "commentator": "غير محدد"
+              "commentator": "أحمد عبده"
             },
             {
               "name": "beIN SPORTS 1",
               "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_TkVexiaeFe0TaEKRgZ5w_logo.png",
               "satellite": "بدر 26",
-              "commentator": "غير محدد"
+              "commentator": "أحمد عبده"
             },
             {
               "name": "beIN SPORTS CONNECT",
               "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_a5lIWVLIjJiaz7SANG9X_logo.png",
               "satellite": "",
-              "commentator": "غير محدد"
+              "commentator": "أحمد عبده"
             },
             {
               "name": "TOD",
               "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/wepqrh3hppobqeophbbg.png",
               "satellite": "",
-              "commentator": "غير محدد"
+              "commentator": "أحمد عبده"
             },
             {
               "name": "beIN Sports Canada",
               "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_DG1Q7W2l4n0wuctHrTvr_logo.png",
               "satellite": "",
-              "commentator": "غير محدد"
+              "commentator": "أحمد عبده"
             },
             {
               "name": "beIN SPORTS CONNECT Canada",
               "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_yhpiqBFZgSTkn6vTjds7_logo.png",
               "satellite": "",
-              "commentator": "غير محدد"
+              "commentator": "أحمد عبده"
             },
             {
               "name": "beIN SPORTS en Espanol",
               "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1786275636414_anqeew.png",
               "satellite": "",
-              "commentator": "غير محدد"
+              "commentator": "أحمد عبده"
             },
             {
               "name": "beIN Sports 1 Hong Kong",
               "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/yon0wcad8n7ksfmf3z52.png",
               "satellite": "",
-              "commentator": "غير محدد"
+              "commentator": "أحمد عبده"
             },
             {
               "name": "beIN CONNECT Turkey",
               "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_0cRXHDVxf7gp3LBj2bQA_logo.png",
               "satellite": "",
-              "commentator": "غير محدد"
+              "commentator": "أحمد عبده"
             },
             {
               "name": "beIN SPORTS",
               "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/htvxbuaaerdgfykutk3p.png",
               "satellite": "",
-              "commentator": "غير محدد"
+              "commentator": "أحمد عبده"
             },
             {
               "name": "beIN SPORTS en Español",
               "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_3ujsUcX375Hxn1RxbDfO_logo.png",
               "satellite": "",
-              "commentator": "غير محدد"
+              "commentator": "أحمد عبده"
             },
             {
               "name": "beIN SPORTS en Español",
               "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1785585779808_kdvjng.png",
               "satellite": "",
-              "commentator": "غير محدد"
+              "commentator": "أحمد عبده"
             },
             {
               "name": "beIN Sports Connect Hong Kong",
               "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_N1M6SwavGoWYoolFEYjW_logo.png",
               "satellite": "",
-              "commentator": "غير محدد"
+              "commentator": "أحمد عبده"
             }
           ],
-          "commentator": "غير محدد"
+          "commentator": "أحمد عبده"
         },
         {
           "id": "m_1788142069935_63iszh",
@@ -12918,8 +12923,15 @@
           "status": "لم تبدأ",
           "score": "---",
           "channels": [],
-          "audio": [],
-          "commentator": "غير محدد"
+          "audio": [
+            {
+              "name": "Al Kass Five HD",
+              "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1776090611756_dcdfzw.png",
+              "satellite": "بدر 26",
+              "commentator": "سمير اليعقوبي"
+            }
+          ],
+          "commentator": "سمير اليعقوبي"
         },
         {
           "id": "m_1788142069776_ry1gvo",
@@ -12936,8 +12948,15 @@
           "status": "لم تبدأ",
           "score": "---",
           "channels": [],
-          "audio": [],
-          "commentator": "غير محدد"
+          "audio": [
+            {
+              "name": "Al Kass Six HD",
+              "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1775645313066_xrenbq.png",
+              "satellite": "بدر 26",
+              "commentator": "أحمد الطيب"
+            }
+          ],
+          "commentator": "أحمد الطيب"
         },
         {
           "id": "m_1788142069971_jtd0hy",
@@ -13675,94 +13694,94 @@
               "name": "beIN SPORTS CONNECT",
               "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_a5lIWVLIjJiaz7SANG9X_logo.png",
               "satellite": "",
-              "commentator": "غير محدد"
+              "commentator": "أحمد فؤاد"
             },
             {
               "name": "beIN SPORTS 3",
               "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/gv1tkusmd6wpxwa1zpt6.png",
               "satellite": "",
-              "commentator": "غير محدد"
+              "commentator": "أحمد فؤاد"
             },
             {
               "name": "beIN SPORTS 3",
               "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/mlhgphv00kclujooilpu.png",
               "satellite": "",
-              "commentator": "غير محدد"
+              "commentator": "أحمد فؤاد"
             },
             {
               "name": "beIN Sports 1 Thailand",
               "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_HFcX77SD18qCp1B79b4J_logo.png",
               "satellite": "",
-              "commentator": "غير محدد"
+              "commentator": "أحمد فؤاد"
             },
             {
               "name": "beIN Sports 1 Indonesia",
               "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/j6l2ug1zs3xqaaaglc0s.png",
               "satellite": "",
-              "commentator": "غير محدد"
+              "commentator": "أحمد فؤاد"
             },
             {
               "name": "beIN Sports Connect Indonesia",
               "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/sxwtykpoemmqb9iv2smc.png",
               "satellite": "",
-              "commentator": "غير محدد"
+              "commentator": "أحمد فؤاد"
             },
             {
               "name": "beIN Sports Malaysia",
               "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/dvuw7cow9a7cihexzevv.png",
               "satellite": "",
-              "commentator": "غير محدد"
+              "commentator": "أحمد فؤاد"
             },
             {
               "name": "beIN Sports Connect Malaysia",
               "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_UWulR8MvTWNXXJr5gZUj_logo.png",
               "satellite": "",
-              "commentator": "غير محدد"
+              "commentator": "أحمد فؤاد"
             },
             {
               "name": "beIN Sports Connect New Zealand",
               "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_PkEUJBb7LJx1JC9oBQa7_logo.png",
               "satellite": "",
-              "commentator": "غير محدد"
+              "commentator": "أحمد فؤاد"
             },
             {
               "name": "beIN Sports Connect Philippines",
               "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_2OKPnbw1V2nfozOgbgl7_logo.png",
               "satellite": "",
-              "commentator": "غير محدد"
+              "commentator": "أحمد فؤاد"
             },
             {
               "name": "beIN Sports Singapore",
               "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_B3wGic12rUUljpJOLrAH_logo.png",
               "satellite": "",
-              "commentator": "غير محدد"
+              "commentator": "أحمد فؤاد"
             },
             {
               "name": "beIN Sports Connect Singapore",
               "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_V4jSlojUzFF0r4DHdosr_logo.png",
               "satellite": "",
-              "commentator": "غير محدد"
+              "commentator": "أحمد فؤاد"
             },
             {
               "name": "beIN SPORTS 2",
               "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_5qlyFgUKIMC3dkdMd39V_logo.png",
               "satellite": "نايل سات",
-              "commentator": "غير محدد"
+              "commentator": "أحمد فؤاد"
             },
             {
               "name": "beIN SPORTS 2",
               "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_9oV64e4DQpP5Y5ntYCv5_logo.png",
               "satellite": "بدر 26",
-              "commentator": "غير محدد"
+              "commentator": "أحمد فؤاد"
             },
             {
               "name": "TOD",
               "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/wepqrh3hppobqeophbbg.png",
               "satellite": "",
-              "commentator": "غير محدد"
+              "commentator": "أحمد فؤاد"
             }
           ],
-          "commentator": "غير محدد"
+          "commentator": "أحمد فؤاد"
         },
         {
           "id": "m_1788142069925_jyli8l",
@@ -20545,10 +20564,10 @@
               "name": "MBC Shahid",
               "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_9JrBroYixLNfnoTzeeHT_logo.jpg",
               "satellite": "",
-              "commentator": "غير محدد"
+              "commentator": "محمد أبو كبدة / https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/commentators/ynjs7ozoc1ewtn5zrtj6.png"
             }
           ],
-          "commentator": "غير محدد"
+          "commentator": "محمد أبو كبدة / https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/commentators/ynjs7ozoc1ewtn5zrtj6.png"
         },
         {
           "id": "m_1788142069772_fwiqc8",
@@ -20966,22 +20985,22 @@
               "name": "MBC Shahid",
               "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_9JrBroYixLNfnoTzeeHT_logo.jpg",
               "satellite": "",
-              "commentator": "غير محدد"
+              "commentator": "غازي العمري"
             },
             {
               "name": "MBC Action HD",
               "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_Ggo2P7hYtkMUOr5aF3XZ_logo.png",
               "satellite": "نايل سات",
-              "commentator": "غير محدد"
+              "commentator": "غازي العمري"
             },
             {
               "name": "MBC Action HD",
               "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_Ggo2P7hYtkMUOr5aF3XZ_logo.png",
               "satellite": "بدر 26",
-              "commentator": "غير محدد"
+              "commentator": "غازي العمري"
             }
           ],
-          "commentator": "غير محدد"
+          "commentator": "غازي العمري"
         }
       ]
     },
