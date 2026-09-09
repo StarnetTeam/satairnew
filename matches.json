@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09 10:14:56",
+  "last_updated": "2026-09-09 15:26:17",
   "requested_dates": [
     "2026-09-09",
     "2026-09-10",
@@ -650,8 +650,8 @@
               "satellite": ""
             },
             {
-              "name": "Cosmote Sport 4 HD",
-              "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_nEm3nGCwFuUn3ek7AlRe_logo.png",
+              "name": "MagentaSport 4 HD",
+              "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1788949696401_rh8dvz.png",
               "satellite": "هوت بيرد"
             },
             {
@@ -1135,7 +1135,7 @@
               "satellite": ""
             },
             {
-              "name": "MagentaSport 4",
+              "name": "قناة غير معروفة",
               "logo": "",
               "satellite": ""
             },
@@ -1547,8 +1547,8 @@
               "satellite": ""
             },
             {
-              "name": "Cosmote Sport 5 HD",
-              "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_GKLN54oJJdKJn8lCknQT_logo.png",
+              "name": "MagentaSport 5 HD",
+              "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1788949710501_jgzyxr.png",
               "satellite": "هوت بيرد"
             },
             {
@@ -1987,7 +1987,7 @@
               "satellite": "التركماني 52"
             },
             {
-              "name": "MagentaSport 5",
+              "name": "قناة غير معروفة",
               "logo": "",
               "satellite": ""
             },
@@ -2336,8 +2336,8 @@
               "satellite": ""
             },
             {
-              "name": "Cosmote Sport 7 HD",
-              "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_d6XmEAMcdyJrXnqz1bKK_logo.png",
+              "name": "MagentaSport 7 HD",
+              "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1788949737983_4dkv68.png",
               "satellite": "هوت بيرد"
             },
             {
@@ -2776,7 +2776,7 @@
               "satellite": ""
             },
             {
-              "name": "MagentaSport 7",
+              "name": "قناة غير معروفة",
               "logo": "",
               "satellite": ""
             },
@@ -3167,8 +3167,8 @@
               "satellite": ""
             },
             {
-              "name": "Cosmote Sport 3 HD",
-              "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_tse4tvFnpbCxqx8sr6It_logo.png",
+              "name": "MagentaSport 3 HD",
+              "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1788949658108_egyeg7.png",
               "satellite": "هوت بيرد"
             },
             {
@@ -3647,7 +3647,7 @@
               "satellite": ""
             },
             {
-              "name": "MagentaSport 3",
+              "name": "قناة غير معروفة",
               "logo": "",
               "satellite": ""
             },
@@ -4047,8 +4047,8 @@
               "satellite": ""
             },
             {
-              "name": "Cosmote Sport 2 HD",
-              "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_vgpETabZKxnpTapXcoye_logo.png",
+              "name": "MagentaSport 2 HD",
+              "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1788949651184_rdrlr7.png",
               "satellite": "هوت بيرد"
             },
             {
@@ -4597,7 +4597,7 @@
               "satellite": "التركماني 52"
             },
             {
-              "name": "MagentaSport 2",
+              "name": "قناة غير معروفة",
               "logo": "",
               "satellite": ""
             },
@@ -5018,8 +5018,8 @@
               "satellite": ""
             },
             {
-              "name": "Cosmote Sport 6 HD",
-              "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_gcLXenckI93noB7hPCCh_logo.png",
+              "name": "MagentaSport 6 HD",
+              "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1788949725737_xnjn53.png",
               "satellite": "هوت بيرد"
             },
             {
@@ -5408,7 +5408,7 @@
               "satellite": ""
             },
             {
-              "name": "MagentaSport 6",
+              "name": "قناة غير معروفة",
               "logo": "",
               "satellite": ""
             },
@@ -5451,6 +5451,11 @@
               "name": "Sky Sport Mix",
               "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/n8oqqorwvqcqoudijigp.png",
               "satellite": "استرا 19"
+            },
+            {
+              "name": "Pickx+ Sports 5",
+              "logo": "",
+              "satellite": ""
             }
           ],
           "audio": [
@@ -8220,6 +8225,139 @@
       ]
     },
     {
+      "name": "الدوري العماني",
+      "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/y7rwfl0jmpfe7kjmidjf.png",
+      "stage": null,
+      "matches": [
+        {
+          "id": "m_1788303927022_nyd9ne",
+          "date": "2026-09-10",
+          "home": {
+            "name": "عبري",
+            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/teams/nuwe7lla5gqwuv22oove.png"
+          },
+          "away": {
+            "name": "صحم",
+            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/teams/vk2qyygwqubrycdwnnzh.png"
+          },
+          "time": "3:40 م",
+          "status": "لم تبدأ",
+          "score": "---",
+          "channels": [],
+          "audio": [],
+          "commentator": "غير محدد"
+        },
+        {
+          "id": "m_1788303927024_uh02jh",
+          "date": "2026-09-10",
+          "home": {
+            "name": "سمائل",
+            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/teams/wqet0vtchweajnlnfdgk.png"
+          },
+          "away": {
+            "name": "فنجاء",
+            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/teams/1787826187750_gx5ki4.png"
+          },
+          "time": "6:00 م",
+          "status": "لم تبدأ",
+          "score": "---",
+          "channels": [],
+          "audio": [],
+          "commentator": "غير محدد"
+        },
+        {
+          "id": "m_1788956928748_zq55ou",
+          "date": "2026-09-10",
+          "home": {
+            "name": "النهضة",
+            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/teams/yfcqirtn1ohrbxcmqqsg.png"
+          },
+          "away": {
+            "name": "السيب",
+            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/teams/u7k8jqah1jq97rexvpxa.png"
+          },
+          "time": "4:55 م",
+          "status": "لم تبدأ",
+          "score": "---",
+          "channels": [],
+          "audio": [],
+          "commentator": "غير محدد"
+        },
+        {
+          "id": "m_1788303927228_v6zvbx",
+          "date": "2026-09-11",
+          "home": {
+            "name": "صور",
+            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/teams/q7zwjjvwlc1qhesgki77.png"
+          },
+          "away": {
+            "name": "بهلاء",
+            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/teams/wbuv2vwul1xgoyc70dgi.png"
+          },
+          "time": "3:30 م",
+          "status": "لم تبدأ",
+          "score": "---",
+          "channels": [],
+          "audio": [],
+          "commentator": "غير محدد"
+        },
+        {
+          "id": "m_1788303927230_w0iyqf",
+          "date": "2026-09-11",
+          "home": {
+            "name": "صحار",
+            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/teams/euqjoqz3utyfueckomzd.png"
+          },
+          "away": {
+            "name": "ظفار",
+            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/teams/egrfdn22ckl9di0cc10a.png"
+          },
+          "time": "3:40 م",
+          "status": "لم تبدأ",
+          "score": "---",
+          "channels": [],
+          "audio": [],
+          "commentator": "غير محدد"
+        },
+        {
+          "id": "m_1788303927232_3g4agx",
+          "date": "2026-09-11",
+          "home": {
+            "name": "النصر",
+            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/teams/emigf8k5u7si3qlk57n7.png"
+          },
+          "away": {
+            "name": "المصنعة",
+            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/teams/1787826200330_6j99rr.png"
+          },
+          "time": "4:55 م",
+          "status": "لم تبدأ",
+          "score": "---",
+          "channels": [],
+          "audio": [],
+          "commentator": "غير محدد"
+        },
+        {
+          "id": "m_1788303927234_ws6mbh",
+          "date": "2026-09-11",
+          "home": {
+            "name": "نادي عمان",
+            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/teams/udsemqbithw7egduz9td.png"
+          },
+          "away": {
+            "name": "الشباب",
+            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/teams/szqssv2ihtthmqsceph1.png"
+          },
+          "time": "6:00 م",
+          "status": "لم تبدأ",
+          "score": "---",
+          "channels": [],
+          "audio": [],
+          "commentator": "غير محدد"
+        }
+      ]
+    },
+    {
       "name": "دوري روشن السعودي",
       "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/fz0x6xxdvux0c6wnfpnh.png",
       "stage": null,
@@ -8814,121 +8952,6 @@
       ]
     },
     {
-      "name": "الدوري العماني",
-      "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/y7rwfl0jmpfe7kjmidjf.png",
-      "stage": null,
-      "matches": [
-        {
-          "id": "m_1788303927022_nyd9ne",
-          "date": "2026-09-10",
-          "home": {
-            "name": "عبري",
-            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/teams/nuwe7lla5gqwuv22oove.png"
-          },
-          "away": {
-            "name": "صحم",
-            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/teams/vk2qyygwqubrycdwnnzh.png"
-          },
-          "time": "3:40 م",
-          "status": "لم تبدأ",
-          "score": "---",
-          "channels": [],
-          "audio": [],
-          "commentator": "غير محدد"
-        },
-        {
-          "id": "m_1788303927024_uh02jh",
-          "date": "2026-09-10",
-          "home": {
-            "name": "سمائل",
-            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/teams/wqet0vtchweajnlnfdgk.png"
-          },
-          "away": {
-            "name": "فنجاء",
-            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/teams/1787826187750_gx5ki4.png"
-          },
-          "time": "6:00 م",
-          "status": "لم تبدأ",
-          "score": "---",
-          "channels": [],
-          "audio": [],
-          "commentator": "غير محدد"
-        },
-        {
-          "id": "m_1788303927228_v6zvbx",
-          "date": "2026-09-11",
-          "home": {
-            "name": "صور",
-            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/teams/q7zwjjvwlc1qhesgki77.png"
-          },
-          "away": {
-            "name": "بهلاء",
-            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/teams/wbuv2vwul1xgoyc70dgi.png"
-          },
-          "time": "3:30 م",
-          "status": "لم تبدأ",
-          "score": "---",
-          "channels": [],
-          "audio": [],
-          "commentator": "غير محدد"
-        },
-        {
-          "id": "m_1788303927230_w0iyqf",
-          "date": "2026-09-11",
-          "home": {
-            "name": "صحار",
-            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/teams/euqjoqz3utyfueckomzd.png"
-          },
-          "away": {
-            "name": "ظفار",
-            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/teams/egrfdn22ckl9di0cc10a.png"
-          },
-          "time": "3:40 م",
-          "status": "لم تبدأ",
-          "score": "---",
-          "channels": [],
-          "audio": [],
-          "commentator": "غير محدد"
-        },
-        {
-          "id": "m_1788303927232_3g4agx",
-          "date": "2026-09-11",
-          "home": {
-            "name": "النصر",
-            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/teams/emigf8k5u7si3qlk57n7.png"
-          },
-          "away": {
-            "name": "المصنعة",
-            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/teams/1787826200330_6j99rr.png"
-          },
-          "time": "4:55 م",
-          "status": "لم تبدأ",
-          "score": "---",
-          "channels": [],
-          "audio": [],
-          "commentator": "غير محدد"
-        },
-        {
-          "id": "m_1788303927234_ws6mbh",
-          "date": "2026-09-11",
-          "home": {
-            "name": "نادي عمان",
-            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/teams/udsemqbithw7egduz9td.png"
-          },
-          "away": {
-            "name": "الشباب",
-            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/teams/szqssv2ihtthmqsceph1.png"
-          },
-          "time": "6:00 م",
-          "status": "لم تبدأ",
-          "score": "---",
-          "channels": [],
-          "audio": [],
-          "commentator": "غير محدد"
-        }
-      ]
-    },
-    {
       "name": "الدوري المصري",
       "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/fms0rdawpmc6ffecb4k3.png",
       "stage": null,
@@ -9239,8 +9262,8 @@
               "satellite": ""
             },
             {
-              "name": "Cosmote Sport 8 HD",
-              "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_REaUzTkepnN5TlFvS955_logo.png",
+              "name": "MagentaSport 8 HD",
+              "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1788949751765_qv5hfk.png",
               "satellite": "هوت بيرد"
             },
             {
@@ -9384,7 +9407,7 @@
               "satellite": ""
             },
             {
-              "name": "MagentaSport 8",
+              "name": "قناة غير معروفة",
               "logo": "",
               "satellite": ""
             },
@@ -10855,6 +10878,85 @@
       ]
     },
     {
+      "name": "دوري أبطال أفريقيا",
+      "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/competitions_4jHARVbr78VbZI5kUXv5_logo.png",
+      "stage": "الدور التمهيدي",
+      "matches": [
+        {
+          "id": "m_1788303927004_xfmdpx",
+          "date": "2026-09-10",
+          "home": {
+            "name": "فوريسترز",
+            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/teams/1787947178755_pzx04p.png"
+          },
+          "away": {
+            "name": "ويلييت",
+            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/teams/1787947188718_m5i7dn.png"
+          },
+          "time": "5:00 م",
+          "status": "لم تبدأ",
+          "score": "---",
+          "channels": [],
+          "audio": [],
+          "commentator": "غير محدد"
+        },
+        {
+          "id": "m_1788303927195_x09ft9",
+          "date": "2026-09-11",
+          "home": {
+            "name": "يو إس إس كيه",
+            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/teams/1787946391739_2eqpp1.png"
+          },
+          "away": {
+            "name": "إينوجو رينجرز",
+            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/teams/1787946406276_0cykfk.png"
+          },
+          "time": "4:00 م",
+          "status": "لم تبدأ",
+          "score": "---",
+          "channels": [],
+          "audio": [],
+          "commentator": "غير محدد"
+        },
+        {
+          "id": "m_1788303927197_55fc2r",
+          "date": "2026-09-11",
+          "home": {
+            "name": "آرمي باتريوريتيك",
+            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/teams/1788304665680_5v7k3s.png"
+          },
+          "away": {
+            "name": "جي إس كيه",
+            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/teams/1788304643925_2k83c4.png"
+          },
+          "time": "6:00 م",
+          "status": "لم تبدأ",
+          "score": "---",
+          "channels": [],
+          "audio": [],
+          "commentator": "غير محدد"
+        },
+        {
+          "id": "m_1788956928972_hi7twe",
+          "date": "2026-09-11",
+          "home": {
+            "name": "15 دي أغوستو",
+            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/teams/1788958296428_d72f1p.png"
+          },
+          "away": {
+            "name": "فومبوني",
+            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/teams/1788958283248_3uvrk8.png"
+          },
+          "time": "4:00 م",
+          "status": "لم تبدأ",
+          "score": "---",
+          "channels": [],
+          "audio": [],
+          "commentator": "غير محدد"
+        }
+      ]
+    },
+    {
       "name": "الدوري البحريني",
       "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/b4fi0wvdyhlju0sxqarw.png",
       "stage": null,
@@ -10939,15 +11041,15 @@
       "stage": "الدور التمهيدي",
       "matches": [
         {
-          "id": "m_1788303927199_ovoh48",
-          "date": "2026-09-11",
+          "id": "m_1788956928742_ov9e81",
+          "date": "2026-09-10",
           "home": {
-            "name": "بريميرو دي اوجوستو",
-            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/teams/1787944964272_4pu25t.png"
+            "name": "ذا بانثرز",
+            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/teams/1788304599417_sykcjb.png"
           },
           "away": {
-            "name": "جرين مامبا",
-            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/teams/1787944993628_ey0qxu.png"
+            "name": "آسباك",
+            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/teams/1788304618485_8lyx0g.png"
           },
           "time": "5:00 م",
           "status": "لم تبدأ",
@@ -10957,15 +11059,15 @@
           "commentator": "غير محدد"
         },
         {
-          "id": "m_1788303927201_vl5v1l",
+          "id": "m_1788303927199_ovoh48",
           "date": "2026-09-11",
           "home": {
-            "name": "آسباك",
-            "logo": "https://jdwel.com/image/teams/6856.png"
+            "name": "بريميرو دي اوجوستو",
+            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/teams/1787944964272_4pu25t.png"
           },
           "away": {
-            "name": "ذا بانثرز",
-            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/teams/1788304599417_sykcjb.png"
+            "name": "جرين مامبا",
+            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/teams/1787944993628_ey0qxu.png"
           },
           "time": "5:00 م",
           "status": "لم تبدأ",
@@ -11013,38 +11115,20 @@
       ]
     },
     {
-      "name": "دوري أبطال أفريقيا",
-      "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/competitions_4jHARVbr78VbZI5kUXv5_logo.png",
-      "stage": "الدور التمهيدي",
+      "name": "الدوري القطري",
+      "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/f2xqrlryiklzjvvlfkdm.png",
+      "stage": null,
       "matches": [
         {
-          "id": "m_1788303927004_xfmdpx",
+          "id": "m_1788956928744_ilkogt",
           "date": "2026-09-10",
           "home": {
-            "name": "فوريسترز",
-            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/teams/1787947178755_pzx04p.png"
+            "name": "الشمال",
+            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/teams/utpb8uowx5ddtwids9me.png"
           },
           "away": {
-            "name": "ويلييت",
-            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/teams/1787947188718_m5i7dn.png"
-          },
-          "time": "5:00 م",
-          "status": "لم تبدأ",
-          "score": "---",
-          "channels": [],
-          "audio": [],
-          "commentator": "غير محدد"
-        },
-        {
-          "id": "m_1788303927195_x09ft9",
-          "date": "2026-09-11",
-          "home": {
-            "name": "يو إس إس كيه",
-            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/teams/1787946391739_2eqpp1.png"
-          },
-          "away": {
-            "name": "إينوجو رينجرز",
-            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/teams/1787946406276_0cykfk.png"
+            "name": "الوكرة",
+            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/teams/m0urawhbzcg0vkdx2ynp.png"
           },
           "time": "4:00 م",
           "status": "لم تبدأ",
@@ -11054,17 +11138,53 @@
           "commentator": "غير محدد"
         },
         {
-          "id": "m_1788303927197_55fc2r",
-          "date": "2026-09-11",
+          "id": "m_1788956928746_ukkb54",
+          "date": "2026-09-10",
           "home": {
-            "name": "آرمي باتريوريتيك",
-            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/teams/1788304665680_5v7k3s.png"
+            "name": "السيلية",
+            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/teams/j6edzyx63f2k6t1guwom.png"
           },
           "away": {
-            "name": "جي إس كيه",
-            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/teams/1788304643925_2k83c4.png"
+            "name": "السد",
+            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/teams/myqay2lxc1vwnas0fe4p.png"
           },
-          "time": "6:00 م",
+          "time": "6:15 م",
+          "status": "لم تبدأ",
+          "score": "---",
+          "channels": [],
+          "audio": [],
+          "commentator": "غير محدد"
+        },
+        {
+          "id": "m_1788956928977_e98gua",
+          "date": "2026-09-11",
+          "home": {
+            "name": "الغرافة",
+            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/teams/kaqsxlwic1yhi2ipebp5.png"
+          },
+          "away": {
+            "name": "لوسيل",
+            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/teams/1786553208504_nrdpo1.png"
+          },
+          "time": "4:00 م",
+          "status": "لم تبدأ",
+          "score": "---",
+          "channels": [],
+          "audio": [],
+          "commentator": "غير محدد"
+        },
+        {
+          "id": "m_1788956928979_khgml8",
+          "date": "2026-09-11",
+          "home": {
+            "name": "الريان",
+            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/teams/tscv1cyys08sqlr7hqq6.png"
+          },
+          "away": {
+            "name": "الأهلي",
+            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/teams/caqfbhpnxgkhvgnjvvbx.png"
+          },
+          "time": "6:15 م",
           "status": "لم تبدأ",
           "score": "---",
           "channels": [],
@@ -11692,6 +11812,31 @@
       ]
     },
     {
+      "name": "كأس الأرجنتين",
+      "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/ns9v9u0xlhl4g45rkj4g.png",
+      "stage": "ربع النهائي",
+      "matches": [
+        {
+          "id": "m_1788956928750_26h5sy",
+          "date": "2026-09-10",
+          "home": {
+            "name": "ديبورتيفو ريسترا",
+            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/teams/yfgiur5zfmwpt9vka8xx.png"
+          },
+          "away": {
+            "name": "بانفيلد",
+            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/teams/tlgtetqvnsu5ussukgrh.png"
+          },
+          "time": "12:00 ص",
+          "status": "لم تبدأ",
+          "score": "---",
+          "channels": [],
+          "audio": [],
+          "commentator": "غير محدد"
+        }
+      ]
+    },
+    {
       "name": "الدوري الإسباني",
       "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/kxq6veg4boxme0twxwyv.png",
       "stage": null,
@@ -11783,6 +11928,31 @@
             "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/teams/1786185485969_emq5hz.png"
           },
           "time": "8:30 م",
+          "status": "لم تبدأ",
+          "score": "---",
+          "channels": [],
+          "audio": [],
+          "commentator": "غير محدد"
+        }
+      ]
+    },
+    {
+      "name": "الدوري التركي",
+      "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/zt6pqwkaau58xrlivib1.png",
+      "stage": null,
+      "matches": [
+        {
+          "id": "m_1788956928975_eng5uh",
+          "date": "2026-09-11",
+          "home": {
+            "name": "بشكتاش",
+            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/teams/wz7egwfohsiwzsldwglh.png"
+          },
+          "away": {
+            "name": "أرضروم سبور",
+            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/teams/1786226119909_zcph2b.png"
+          },
+          "time": "7:00 م",
           "status": "لم تبدأ",
           "score": "---",
           "channels": [],
