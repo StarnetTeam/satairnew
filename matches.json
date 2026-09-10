@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10 15:21:16",
+  "last_updated": "2026-09-10 20:09:37",
   "requested_dates": [
     "2026-09-10",
     "2026-09-11",
@@ -7863,7 +7863,7 @@
             },
             {
               "name": "beIN SPORTS MAX 2",
-              "logo": "",
+              "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1789059451987_j0ubya.png",
               "satellite": "",
               "commentator": "غير محدد"
             }
@@ -7896,9 +7896,9 @@
               "satellite": ""
             },
             {
-              "name": "Canal+ Live 10",
-              "logo": "",
-              "satellite": ""
+              "name": "CANAL+ LIVE 10",
+              "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1789059160551_inl0ow.png",
+              "satellite": "استرا 19"
             },
             {
               "name": "DStv Now",
@@ -15037,8 +15037,15 @@
               "satellite": ""
             }
           ],
-          "audio": [],
-          "commentator": "غير محدد"
+          "audio": [
+            {
+              "name": "Thmanyah 1 HD",
+              "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1788775766864_mi7ka4.png",
+              "satellite": "بدر 26",
+              "commentator": "جعفر الصليح"
+            }
+          ],
+          "commentator": "جعفر الصليح"
         },
         {
           "id": "m_1788303927187_ibadp6",
@@ -15061,8 +15068,15 @@
               "satellite": ""
             }
           ],
-          "audio": [],
-          "commentator": "غير محدد"
+          "audio": [
+            {
+              "name": "Thmanyah 2 HD",
+              "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1788775798887_iacjol.png",
+              "satellite": "بدر 26",
+              "commentator": "خالد المديفر"
+            }
+          ],
+          "commentator": "خالد المديفر"
         },
         {
           "id": "m_1788303927189_3ecb09",
@@ -15170,8 +15184,15 @@
               "satellite": ""
             }
           ],
-          "audio": [],
-          "commentator": "غير محدد"
+          "audio": [
+            {
+              "name": "Thmanyah 1 HD",
+              "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1788775766864_mi7ka4.png",
+              "satellite": "بدر 26",
+              "commentator": "فهد العتيبي"
+            }
+          ],
+          "commentator": "فهد العتيبي"
         },
         {
           "id": "m_1788303927381_bivaam",
@@ -15264,8 +15285,15 @@
               "satellite": ""
             }
           ],
-          "audio": [],
-          "commentator": "غير محدد"
+          "audio": [
+            {
+              "name": "Thmanyah 2 HD",
+              "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1788775798887_iacjol.png",
+              "satellite": "بدر 26",
+              "commentator": "فارس عوض"
+            }
+          ],
+          "commentator": "فارس عوض"
         },
         {
           "id": "m_1788303927383_052zr1",
@@ -15463,8 +15491,15 @@
               "satellite": ""
             }
           ],
-          "audio": [],
-          "commentator": "غير محدد"
+          "audio": [
+            {
+              "name": "Thmanyah 1 HD",
+              "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1788775766864_mi7ka4.png",
+              "satellite": "بدر 26",
+              "commentator": "جعفر الصليح"
+            }
+          ],
+          "commentator": "جعفر الصليح"
         },
         {
           "id": "m_1788303927385_bt238d",
@@ -15487,8 +15522,15 @@
               "satellite": ""
             }
           ],
-          "audio": [],
-          "commentator": "غير محدد"
+          "audio": [
+            {
+              "name": "Thmanyah 3 HD",
+              "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1788775821291_k4457p.png",
+              "satellite": "بدر 26",
+              "commentator": "سليمان الشريف"
+            }
+          ],
+          "commentator": "سليمان الشريف"
         }
       ]
     },
@@ -22812,7 +22854,7 @@
             },
             {
               "name": "SuperSport OTT 6",
-              "logo": "",
+              "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1789059394293_wkxv37.png",
               "satellite": ""
             },
             {
@@ -24460,8 +24502,15 @@
           "status": "لم تبدأ",
           "score": "---",
           "channels": [],
-          "audio": [],
-          "commentator": "غير محدد"
+          "audio": [
+            {
+              "name": "Iraqia Sport HD",
+              "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/hlrpurd0fgfzjcbbjdsm.png",
+              "satellite": "نايل سات",
+              "commentator": "حسين الساعدي"
+            }
+          ],
+          "commentator": "حسين الساعدي"
         },
         {
           "id": "m_1788303927498_z6f1v8",
@@ -24478,8 +24527,15 @@
           "status": "لم تبدأ",
           "score": "---",
           "channels": [],
-          "audio": [],
-          "commentator": "غير محدد"
+          "audio": [
+            {
+              "name": "Iraqia Syriac HD",
+              "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/v8k1knwmof4uvqhyeqcv.png",
+              "satellite": "نايل سات",
+              "commentator": "حسن سالم"
+            }
+          ],
+          "commentator": "حسن سالم"
         }
       ]
     },
