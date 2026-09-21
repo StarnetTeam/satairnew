@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-21 11:15:51",
+  "last_updated": "2026-09-21 17:17:19",
   "requested_dates": [
     "2026-09-21",
     "2026-09-22",
@@ -517,24 +517,6 @@
           "commentator": "غير محدد"
         },
         {
-          "id": "m_1789683368881_e2fguz",
-          "date": "2026-09-21",
-          "home": {
-            "name": "فيجي",
-            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/teams/1780457938195_eyqa06.png"
-          },
-          "away": {
-            "name": "فانواتو",
-            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/teams/1780457921312_z5p89l.png"
-          },
-          "time": "10:00 ص",
-          "status": "لم تبدأ",
-          "score": "---",
-          "channels": [],
-          "audio": [],
-          "commentator": "غير محدد"
-        },
-        {
           "id": "m_1789683369369_30e4m3",
           "date": "2026-09-23",
           "home": {
@@ -680,56 +662,6 @@
       ]
     },
     {
-      "name": "الرابطة المحترفة الجزائرية الأولى",
-      "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/tmg62upkin0ym3vthnja.png",
-      "stage": "الجولة 1 - الذهاب",
-      "matches": [
-        {
-          "id": "m_1789683368885_2pynf7",
-          "date": "2026-09-22",
-          "home": {
-            "name": "اتحاد بسكرة",
-            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/teams/1787343856242_ygwook.png"
-          },
-          "away": {
-            "name": "شبيبة الساورة",
-            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/teams/l87k3dsxml3zajvfdxl4.png"
-          },
-          "time": "08:00 م",
-          "status": "لم تبدأ",
-          "score": "---",
-          "channels": [],
-          "audio": [
-            {
-              "name": "الرياضية ويب",
-              "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1789151648507_wibfye.png",
-              "satellite": "",
-              "commentator": "غير مدرج"
-            }
-          ],
-          "commentator": "غير مدرج"
-        },
-        {
-          "id": "m_1789683369019_6nkxyw",
-          "date": "2026-09-22",
-          "home": {
-            "name": "مولودية الجزائر",
-            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/teams/qfpkwiwaqf4vtlhpxjvo.png"
-          },
-          "away": {
-            "name": "مولودية وهران",
-            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/teams/gsub0luhwg4ycxel1jew.png"
-          },
-          "time": "10:00 م",
-          "status": "لم تبدأ",
-          "score": "---",
-          "channels": [],
-          "audio": [],
-          "commentator": "غير مدرج"
-        }
-      ]
-    },
-    {
       "name": "كأس الخليج العربي 27",
       "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1789684051096_3hof1c.png",
       "stage": "الجولة 1",
@@ -763,7 +695,7 @@
               "commentator": "محمد الهنائي"
             }
           ],
-          "commentator": "غير مدرج / محمد الهنائي"
+          "commentator": "محمد الهنائي / غير مدرج"
         },
         {
           "id": "m_1789683369516_ouu188",
@@ -904,6 +836,38 @@
             {
               "name": "Apple tv",
               "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/v2kt2viakblu9ha1atay.png",
+              "satellite": "",
+              "commentator": "غير مدرج"
+            }
+          ],
+          "commentator": "غير مدرج"
+        }
+      ]
+    },
+    {
+      "name": "الرابطة المحترفة الجزائرية الأولى",
+      "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/tmg62upkin0ym3vthnja.png",
+      "stage": "الجولة 1 - الذهاب",
+      "matches": [
+        {
+          "id": "m_1789683368885_2pynf7",
+          "date": "2026-09-22",
+          "home": {
+            "name": "اتحاد بسكرة",
+            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/teams/1787343856242_ygwook.png"
+          },
+          "away": {
+            "name": "شبيبة الساورة",
+            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/teams/l87k3dsxml3zajvfdxl4.png"
+          },
+          "time": "08:00 م",
+          "status": "لم تبدأ",
+          "score": "---",
+          "channels": [],
+          "audio": [
+            {
+              "name": "الرياضية ويب",
+              "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1789151648507_wibfye.png",
               "satellite": "",
               "commentator": "غير مدرج"
             }
