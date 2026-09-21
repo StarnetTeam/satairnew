@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-21 17:17:19",
+  "last_updated": "2026-09-21 21:18:01",
   "requested_dates": [
     "2026-09-21",
     "2026-09-22",
@@ -565,9 +565,41 @@
               "name": "Tubi",
               "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/axhuf8uutlp4cadfx8t7.png",
               "satellite": ""
+            },
+            {
+              "name": "MONOMAX",
+              "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/uajc0vldwyp8mflnim17.png",
+              "satellite": ""
+            },
+            {
+              "name": "Viaplay Norway",
+              "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/o22gnxmqw14ai9srgodn.png",
+              "satellite": ""
+            },
+            {
+              "name": "Sport TV 1 HD",
+              "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_s0XpIptgqUJImCn35V7D_logo.png",
+              "satellite": "هيسباسات"
+            },
+            {
+              "name": "Viaplay Sweden",
+              "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_WPoYWEBGerHEozPBhxD2_logo.png",
+              "satellite": ""
+            },
+            {
+              "name": "MEGOGO Football 2",
+              "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_CQfHKL6WCZMRmQjbrk4N_logo.jpg",
+              "satellite": ""
             }
           ],
-          "audio": [],
+          "audio": [
+            {
+              "name": "beIN SPORTS CONNECT",
+              "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_a5lIWVLIjJiaz7SANG9X_logo.png",
+              "satellite": "",
+              "commentator": "غير محدد"
+            }
+          ],
           "commentator": "غير محدد"
         },
         {
@@ -628,6 +660,41 @@
             {
               "name": "FOX One",
               "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_So2G1UuBcuitekZ3BtkN_logo.png",
+              "satellite": ""
+            },
+            {
+              "name": "Sony LIV",
+              "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_8vGt5a0BCbkc88O7Ppqw_logo.png",
+              "satellite": ""
+            },
+            {
+              "name": "SONY TEN 1 HD",
+              "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_g1PO3PH3x7sHdjqfroM5_logo.png",
+              "satellite": "الهندي 108"
+            },
+            {
+              "name": "MONOMAX",
+              "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/uajc0vldwyp8mflnim17.png",
+              "satellite": ""
+            },
+            {
+              "name": "Viaplay Norway",
+              "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/o22gnxmqw14ai9srgodn.png",
+              "satellite": ""
+            },
+            {
+              "name": "TV 2 Play",
+              "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/w74o2p2vcv2abh2gujrk.png",
+              "satellite": ""
+            },
+            {
+              "name": "Viaplay Sweden",
+              "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_WPoYWEBGerHEozPBhxD2_logo.png",
+              "satellite": ""
+            },
+            {
+              "name": "MEGOGO Football 1",
+              "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_3yr6vhRMIhuhhZsYNIe3_logo.jpg",
               "satellite": ""
             }
           ],
@@ -695,7 +762,7 @@
               "commentator": "محمد الهنائي"
             }
           ],
-          "commentator": "محمد الهنائي / غير مدرج"
+          "commentator": "غير مدرج / محمد الهنائي"
         },
         {
           "id": "m_1789683369516_ouu188",
@@ -756,6 +823,21 @@
               "name": "ESPN+",
               "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1785543277431_yqtct8.png",
               "satellite": ""
+            },
+            {
+              "name": "Almanasa",
+              "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/1776784591301_9u8ng5.png",
+              "satellite": ""
+            },
+            {
+              "name": "fuboTV",
+              "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_541g3NFSdww7eRBiegMj_logo.png",
+              "satellite": ""
+            },
+            {
+              "name": "ESPN App",
+              "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_GxJYZ4m2GIuZ7g65US9q_logo.png",
+              "satellite": ""
             }
           ],
           "audio": [
@@ -772,7 +854,7 @@
               "commentator": "موسى عيد"
             }
           ],
-          "commentator": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/commentators/1775995472956_m0rcf1.png / خالد الحدي / موسى عيد"
+          "commentator": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/commentators/1775995472956_m0rcf1.png / موسى عيد / خالد الحدي"
         }
       ]
     },
