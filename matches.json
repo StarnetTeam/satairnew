@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-30 02:41:20",
+  "last_updated": "2026-09-30 11:28:25",
   "requested_dates": [
     "2026-09-30",
     "2026-10-01",
@@ -7320,24 +7320,6 @@
           "commentator": "غير محدد"
         },
         {
-          "id": "m_1789768774822_wyogo8",
-          "date": "2026-09-30",
-          "home": {
-            "name": "بابوا غينيا الجديدة",
-            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/teams/1789685786679_zxm1j0.png"
-          },
-          "away": {
-            "name": "جزر سليمان",
-            "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/teams/1789331648246_lptbji.png"
-          },
-          "time": "07:00 ص",
-          "status": "لم تبدأ",
-          "score": "---",
-          "channels": [],
-          "audio": [],
-          "commentator": "غير محدد"
-        },
-        {
           "id": "m_1789768774921_0tfy4f",
           "date": "2026-09-30",
           "home": {
@@ -8068,7 +8050,7 @@
               "commentator": "محمد سليمان"
             }
           ],
-          "commentator": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/commentators/1786276354931_0d8kjt.png / محمد سليمان"
+          "commentator": "محمد سليمان / https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/commentators/1786276354931_0d8kjt.png"
         },
         {
           "id": "m_1790405813670_p9o1pb",
@@ -8196,7 +8178,7 @@
               "commentator": "محمد سليمان"
             }
           ],
-          "commentator": "محمد سليمان / https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/commentators/1786276354931_0d8kjt.png"
+          "commentator": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/commentators/1786276354931_0d8kjt.png / محمد سليمان"
         },
         {
           "id": "m_1790405813894_ls5pgr",
@@ -8987,34 +8969,34 @@
               "name": "MBC Shahid",
               "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_9JrBroYixLNfnoTzeeHT_logo.jpg",
               "satellite": "",
-              "commentator": "سليمان الشريف / موسى عيد / أحمد النفيسة / علي خلف الشمري / عامر عبدالله / أحمد الكعبي / خالد المديفر / أحمد الطيب"
+              "commentator": "عامر عبدالله / موسى عيد / سليمان الشريف / خالد المديفر / أحمد الطيب / أحمد النفيسة / أحمد الكعبي / علي خلف الشمري"
             },
             {
               "name": "MBC Shahid",
               "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_9JrBroYixLNfnoTzeeHT_logo.jpg",
               "satellite": "",
-              "commentator": "سليمان الشريف / موسى عيد / أحمد النفيسة / علي خلف الشمري / عامر عبدالله / أحمد الكعبي / خالد المديفر / أحمد الطيب"
+              "commentator": "عامر عبدالله / موسى عيد / سليمان الشريف / خالد المديفر / أحمد الطيب / أحمد النفيسة / أحمد الكعبي / علي خلف الشمري"
             },
             {
               "name": "STC TV",
               "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_cRXofX9zp0sS36mhQ5UL_logo.png",
               "satellite": "",
-              "commentator": "سليمان الشريف / موسى عيد / أحمد النفيسة / علي خلف الشمري / عامر عبدالله / أحمد الكعبي / خالد المديفر / أحمد الطيب"
+              "commentator": "عامر عبدالله / موسى عيد / سليمان الشريف / خالد المديفر / أحمد الطيب / أحمد النفيسة / أحمد الكعبي / علي خلف الشمري"
             },
             {
               "name": "STC TV",
               "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_cRXofX9zp0sS36mhQ5UL_logo.png",
               "satellite": "",
-              "commentator": "سليمان الشريف / موسى عيد / أحمد النفيسة / علي خلف الشمري / عامر عبدالله / أحمد الكعبي / خالد المديفر / أحمد الطيب"
+              "commentator": "عامر عبدالله / موسى عيد / سليمان الشريف / خالد المديفر / أحمد الطيب / أحمد النفيسة / أحمد الكعبي / علي خلف الشمري"
             },
             {
               "name": "MBC Action HD",
               "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_Ggo2P7hYtkMUOr5aF3XZ_logo.png",
               "satellite": "بدر 26",
-              "commentator": "سليمان الشريف / موسى عيد / أحمد النفيسة / علي خلف الشمري / عامر عبدالله / أحمد الكعبي / خالد المديفر / أحمد الطيب"
+              "commentator": "عامر عبدالله / موسى عيد / سليمان الشريف / خالد المديفر / أحمد الطيب / أحمد النفيسة / أحمد الكعبي / علي خلف الشمري"
             }
           ],
-          "commentator": "سليمان الشريف / موسى عيد / أحمد النفيسة / علي خلف الشمري / عامر عبدالله / أحمد الكعبي / خالد المديفر / أحمد الطيب"
+          "commentator": "عامر عبدالله / موسى عيد / سليمان الشريف / خالد المديفر / أحمد الطيب / أحمد النفيسة / أحمد الكعبي / علي خلف الشمري"
         },
         {
           "id": "m_1789768775084_605i1f",
@@ -9135,7 +9117,7 @@
               "name": "MBC Shahid",
               "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_9JrBroYixLNfnoTzeeHT_logo.jpg",
               "satellite": "",
-              "commentator": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/commentators/ohq4ju2rblkrvxz5zozl.png / محمد الشامسي / عائد العصيمي / عبدالعزيز السبر / محمد الهنائي / سمير المعيرفي / محمد العتيبي / محمد الريامي / حسن الهاشمي"
+              "commentator": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/commentators/ohq4ju2rblkrvxz5zozl.png / محمد الشامسي / محمد الريامي / حسن الهاشمي / عبدالعزيز السبر / محمد العتيبي / محمد الهنائي / عائد العصيمي / سمير المعيرفي"
             },
             {
               "name": "MBC Shahid",
@@ -9171,16 +9153,16 @@
               "name": "STC TV",
               "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_cRXofX9zp0sS36mhQ5UL_logo.png",
               "satellite": "",
-              "commentator": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/commentators/ohq4ju2rblkrvxz5zozl.png / محمد الشامسي / عائد العصيمي / عبدالعزيز السبر / محمد الهنائي / سمير المعيرفي / محمد العتيبي / محمد الريامي / حسن الهاشمي"
+              "commentator": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/commentators/ohq4ju2rblkrvxz5zozl.png / محمد الشامسي / محمد الريامي / حسن الهاشمي / عبدالعزيز السبر / محمد العتيبي / محمد الهنائي / عائد العصيمي / سمير المعيرفي"
             },
             {
               "name": "STC TV",
               "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_cRXofX9zp0sS36mhQ5UL_logo.png",
               "satellite": "",
-              "commentator": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/commentators/ohq4ju2rblkrvxz5zozl.png / محمد الشامسي / عائد العصيمي / عبدالعزيز السبر / محمد الهنائي / سمير المعيرفي / محمد العتيبي / محمد الريامي / حسن الهاشمي"
+              "commentator": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/commentators/ohq4ju2rblkrvxz5zozl.png / محمد الشامسي / محمد الريامي / حسن الهاشمي / عبدالعزيز السبر / محمد العتيبي / محمد الهنائي / عائد العصيمي / سمير المعيرفي"
             }
           ],
-          "commentator": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/commentators/ohq4ju2rblkrvxz5zozl.png / محمد الشامسي / عائد العصيمي / عبدالعزيز السبر / محمد الهنائي / سمير المعيرفي / محمد العتيبي / محمد الريامي / حسن الهاشمي"
+          "commentator": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/commentators/ohq4ju2rblkrvxz5zozl.png / محمد الشامسي / محمد الريامي / حسن الهاشمي / عبدالعزيز السبر / محمد العتيبي / محمد الهنائي / عائد العصيمي / سمير المعيرفي"
         }
       ]
     },
