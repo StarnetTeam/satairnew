@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-07 12:10:47",
+  "last_updated": "2026-10-07 22:21:19",
   "requested_dates": [
     "2026-10-07",
     "2026-10-08",
@@ -335,7 +335,7 @@
               "commentator": "محمد الكواليني"
             }
           ],
-          "commentator": "محمد الكواليني / https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/audio/1775991221737_w5lfso.mp3 / https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/commentators/ku83wrydcxdvn3sewtxa.png"
+          "commentator": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/commentators/ku83wrydcxdvn3sewtxa.png / https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/audio/1775991221737_w5lfso.mp3 / محمد الكواليني"
         },
         {
           "id": "m_1790962625216_m0tjcv",
@@ -360,7 +360,7 @@
               "commentator": "طارق حسن"
             }
           ],
-          "commentator": "طارق حسن / https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/commentators/1776032838165_vsa06e.png"
+          "commentator": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/commentators/1776032838165_vsa06e.png / طارق حسن"
         },
         {
           "id": "m_1790962625218_csjr2s",
@@ -410,7 +410,7 @@
               "commentator": "هشام معمر"
             }
           ],
-          "commentator": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/commentators/rtlswwkzawbljj2ocbgw.png / هشام معمر"
+          "commentator": "هشام معمر / https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/commentators/rtlswwkzawbljj2ocbgw.png"
         }
       ]
     },
@@ -801,7 +801,7 @@
               "commentator": "موسى عيد"
             }
           ],
-          "commentator": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/commentators/1775995472956_m0rcf1.png / موسى عيد"
+          "commentator": "موسى عيد / https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/commentators/1775995472956_m0rcf1.png"
         },
         {
           "id": "m_1791101358024_ltq5kb",
@@ -1287,28 +1287,28 @@
               "name": "beIN SPORTS 3",
               "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/gv1tkusmd6wpxwa1zpt6.png",
               "satellite": "",
-              "commentator": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/audio/1775991919111_4uk1tv.mp3 / https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/commentators/bnlftap9ylifebjsgyhx.png / فارس عوض"
+              "commentator": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/audio/1775991919111_4uk1tv.mp3 / فارس عوض / https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/commentators/bnlftap9ylifebjsgyhx.png"
             },
             {
               "name": "beIN SPORTS 3",
               "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/mlhgphv00kclujooilpu.png",
               "satellite": "",
-              "commentator": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/audio/1775991919111_4uk1tv.mp3 / https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/commentators/bnlftap9ylifebjsgyhx.png / فارس عوض"
+              "commentator": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/audio/1775991919111_4uk1tv.mp3 / فارس عوض / https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/commentators/bnlftap9ylifebjsgyhx.png"
             },
             {
               "name": "beIN Sports Connect New Zealand",
               "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_PkEUJBb7LJx1JC9oBQa7_logo.png",
               "satellite": "",
-              "commentator": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/audio/1775991919111_4uk1tv.mp3 / https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/commentators/bnlftap9ylifebjsgyhx.png / فارس عوض"
+              "commentator": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/audio/1775991919111_4uk1tv.mp3 / فارس عوض / https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/commentators/bnlftap9ylifebjsgyhx.png"
             },
             {
               "name": "beIN SPORTS CONNECT",
               "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/channels/channels_a5lIWVLIjJiaz7SANG9X_logo.png",
               "satellite": "",
-              "commentator": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/audio/1775991919111_4uk1tv.mp3 / https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/commentators/bnlftap9ylifebjsgyhx.png / فارس عوض"
+              "commentator": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/audio/1775991919111_4uk1tv.mp3 / فارس عوض / https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/commentators/bnlftap9ylifebjsgyhx.png"
             }
           ],
-          "commentator": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/audio/1775991919111_4uk1tv.mp3 / https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/commentators/bnlftap9ylifebjsgyhx.png / فارس عوض"
+          "commentator": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/audio/1775991919111_4uk1tv.mp3 / فارس عوض / https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/commentators/bnlftap9ylifebjsgyhx.png"
         },
         {
           "id": "m_1790886697699_dc0vth",
@@ -2320,7 +2320,7 @@
               "commentator": "جواد بدة"
             }
           ],
-          "commentator": "جواد بدة / https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/audio/1775990904287_9cnbwn.mp3 / https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/commentators/iqlgat3uokd0wqvfmbe7.png"
+          "commentator": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/commentators/iqlgat3uokd0wqvfmbe7.png / جواد بدة / https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/audio/1775990904287_9cnbwn.mp3"
         }
       ]
     },
@@ -2352,7 +2352,7 @@
               "commentator": "أحمد البلوشي"
             }
           ],
-          "commentator": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/audio/1775990897084_mu5ysm.mp3 / https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/commentators/ohvohfig28msn3atm6wp.png / أحمد البلوشي"
+          "commentator": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/audio/1775990897084_mu5ysm.mp3 / أحمد البلوشي / https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/commentators/ohvohfig28msn3atm6wp.png"
         }
       ]
     },
@@ -2384,7 +2384,7 @@
               "commentator": "نوفل باشي"
             }
           ],
-          "commentator": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/commentators/oxqizd0gfu3uwiqe0wbf.png / https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/audio/1775990325972_d3yxrc.mp3 / نوفل باشي"
+          "commentator": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/audio/1775990325972_d3yxrc.mp3 / نوفل باشي / https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/commentators/oxqizd0gfu3uwiqe0wbf.png"
         }
       ]
     },
