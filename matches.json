@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-08 03:15:54",
+  "last_updated": "2026-10-08 12:21:45",
   "requested_dates": [
     "2026-10-08",
     "2026-10-09",
@@ -275,7 +275,7 @@
               "commentator": "نوفل باشي"
             }
           ],
-          "commentator": "نوفل باشي / https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/commentators/oxqizd0gfu3uwiqe0wbf.png / https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/audio/1775990325972_d3yxrc.mp3"
+          "commentator": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/audio/1775990325972_d3yxrc.mp3 / نوفل باشي / https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/commentators/oxqizd0gfu3uwiqe0wbf.png"
         },
         {
           "id": "m_1791101358143_zi1u6r",
@@ -900,7 +900,7 @@
               "commentator": "محمد الهنائي"
             }
           ],
-          "commentator": "محمد الهنائي / https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/commentators/1785543640345_pklsvp.png"
+          "commentator": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/commentators/1785543640345_pklsvp.png / محمد الهنائي"
         },
         {
           "id": "m_1790962625371_302vg3",
@@ -925,7 +925,7 @@
               "commentator": "موسى عيد"
             }
           ],
-          "commentator": "موسى عيد / https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/commentators/1775995472956_m0rcf1.png"
+          "commentator": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/commentators/1775995472956_m0rcf1.png / موسى عيد"
         },
         {
           "id": "m_1791101358024_ltq5kb",
@@ -950,7 +950,7 @@
               "commentator": "محمد الهنائي"
             }
           ],
-          "commentator": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/commentators/1785543640345_pklsvp.png / محمد الهنائي"
+          "commentator": "محمد الهنائي / https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/commentators/1785543640345_pklsvp.png"
         },
         {
           "id": "m_1791101358027_q9bgi5",
@@ -2229,7 +2229,7 @@
               "commentator": "أحمد البلوشي"
             }
           ],
-          "commentator": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/audio/1775990897084_mu5ysm.mp3 / أحمد البلوشي / https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/commentators/ohvohfig28msn3atm6wp.png"
+          "commentator": "أحمد البلوشي / https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/audio/1775990897084_mu5ysm.mp3 / https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/commentators/ohvohfig28msn3atm6wp.png"
         },
         {
           "id": "m_1791101358128_x8p8ew",
@@ -2430,7 +2430,7 @@
               "commentator": "محمد الكواليني"
             }
           ],
-          "commentator": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/audio/1775991221737_w5lfso.mp3 / محمد الكواليني / https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/commentators/ku83wrydcxdvn3sewtxa.png"
+          "commentator": "محمد الكواليني / https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/commentators/ku83wrydcxdvn3sewtxa.png / https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/audio/1775991221737_w5lfso.mp3"
         },
         {
           "id": "m_1790962625216_m0tjcv",
@@ -2455,7 +2455,7 @@
               "commentator": "طارق حسن"
             }
           ],
-          "commentator": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/commentators/1776032838165_vsa06e.png / طارق حسن"
+          "commentator": "طارق حسن / https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/commentators/1776032838165_vsa06e.png"
         },
         {
           "id": "m_1790962625218_csjr2s",
@@ -2480,7 +2480,7 @@
               "commentator": "محمد محمود عفيفي"
             }
           ],
-          "commentator": "محمد محمود عفيفي / https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/commentators/1788143891101_o0rwn5.png"
+          "commentator": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/commentators/1788143891101_o0rwn5.png / محمد محمود عفيفي"
         },
         {
           "id": "m_1790962625220_w0agnv",
