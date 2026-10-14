@@ -1,7 +1,7 @@
 name: Update Football Matches (SatAir Source)
 
 on:
-  schedule:
+  schedul.e:
     - cron: '0 */6 * * *'
   workflow_dispatch:
 
